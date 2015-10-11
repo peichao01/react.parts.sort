@@ -1,5 +1,6 @@
 var request = require('request')
 var fs      = require('fs-extra')
+var path    = require('path')
 
 var page    = 1
 
@@ -28,7 +29,7 @@ function onFetchSuccess(error, response, body){
 		if(data.initialComponents.length > 0){
 			components = components.concat(data.initialComponents)
 
-			fs.outputFileSync(`../json/native-page-${page}.json`, JSON.stringify(data, null, 4))
+			fs.outputFileSync(path.join(__dirname, `../json/native-page-${page}.json`), JSON.stringify(data, null, 4))
 		}
 		if(data.initialComponents.length == data.perPage){
 			page++
@@ -45,7 +46,7 @@ function onFetchSuccess(error, response, body){
 
 function onFetchedAllComponents(){
 	var err
-	err = fs.outputFileSync('../native.js', `window.components = ${JSON.stringify(components, null, 4)}`)
+	err = fs.outputFileSync(path.join(__dirname, '../native.js'), `window.components = ${JSON.stringify(components, null, 4)}`)
 
 	console.log(`native components write to JSON files successfully`)
 }
