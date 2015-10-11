@@ -1,0 +1,337 @@
+{
+    "initialComponents": [
+        {
+            "platforms": {
+                "ios": true
+            },
+            "name": "react-native-quick-actions",
+            "description": "A react-native interface for Touch 3D home screen quick actions.",
+            "downloads": 38,
+            "stars": 72,
+            "githubUser": "jordanbyron",
+            "modified": "2015-09-26T13:55:46.108Z",
+            "latestVersion": "0.0.1",
+            "description_encoded": "A react-native interface for Touch 3D home screen quick actions.",
+            "objectID": "126515720",
+            "nameHighlight": "react-native-quick-actions",
+            "descriptionHighlight": "A react-native interface for Touch 3D home screen quick actions.",
+            "githubUserHighlight": "jordanbyron"
+        },
+        {
+            "downloads": 1423,
+            "description": "UIDevice wrapper for React Native.",
+            "githubUser": "GertjanReynaert",
+            "modified": "2015-09-26T09:00:15.990Z",
+            "name": "react-native-device",
+            "platforms": {
+                "ios": true
+            },
+            "stars": 60,
+            "latestVersion": "1.0.1",
+            "description_encoded": "UIDevice wrapper for React Native.",
+            "objectID": "126513240",
+            "nameHighlight": "react-native-device",
+            "descriptionHighlight": "UIDevice wrapper for React Native.",
+            "githubUserHighlight": "GertjanReynaert"
+        },
+        {
+            "downloads": 5382,
+            "description": "A Camera component for React Native. Also reads barcodes.",
+            "githubUser": "lwansbrough",
+            "modified": "2015-09-26T07:52:50.788Z",
+            "name": "react-native-camera",
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "stars": 411,
+            "latestVersion": "0.3.6",
+            "description_encoded": "A Camera component for React Native. Also reads barcodes.",
+            "objectID": "126512900",
+            "nameHighlight": "react-native-camera",
+            "descriptionHighlight": "A Camera component for React Native. Also reads barcodes.",
+            "githubUserHighlight": "lwansbrough"
+        },
+        {
+            "modified": "2015-09-25T23:13:03.969Z",
+            "downloads": 474,
+            "name": "react-native-webintent",
+            "stars": 10,
+            "latestVersion": "1.0.2",
+            "description": "React native android module to open links in the default browser.",
+            "githubUser": "ivanph",
+            "platforms": {
+                "android": true
+            },
+            "description_encoded": "React native android module to open links in the default browser.",
+            "objectID": "126515660",
+            "nameHighlight": "react-native-webintent",
+            "descriptionHighlight": "React native android module to open links in the default browser.",
+            "githubUserHighlight": "ivanph"
+        },
+        {
+            "description": "A better Select dropdown menu for react-native.",
+            "downloads": 213,
+            "latestVersion": "0.0.4",
+            "githubUser": "alinz",
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "modified": "2015-09-25T17:43:12.318Z",
+            "stars": 29,
+            "name": "react-native-dropdown",
+            "description_encoded": "A better Select dropdown menu for react-native.",
+            "objectID": "126514550",
+            "nameHighlight": "react-native-dropdown",
+            "descriptionHighlight": "A better Select dropdown menu for react-native.",
+            "githubUserHighlight": "alinz"
+        },
+        {
+            "latestVersion": "0.2.6",
+            "modified": "2015-09-25T14:09:41.584Z",
+            "downloads": 1040,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "naoufal",
+            "stars": 94,
+            "name": "react-native-activity-view",
+            "description": "iOS share and action sheets for React Native.",
+            "description_encoded": "iOS share and action sheets for React Native.",
+            "objectID": "126513890",
+            "nameHighlight": "react-native-activity-view",
+            "descriptionHighlight": "iOS share and action sheets for React Native.",
+            "githubUserHighlight": "naoufal"
+        },
+        {
+            "downloads": 1455,
+            "description": "Display (possibly untrusted) HTML using a UIWebView in React Native.",
+            "githubUser": "almost",
+            "modified": "2015-09-25T08:55:34.900Z",
+            "name": "react-native-html-webview",
+            "platforms": {
+                "ios": true
+            },
+            "stars": 38,
+            "latestVersion": "0.0.14",
+            "description_encoded": "Display (possibly untrusted) HTML using a UIWebView in React Native.",
+            "objectID": "126512950",
+            "nameHighlight": "react-native-html-webview",
+            "descriptionHighlight": "Display (possibly untrusted) HTML using a UIWebView in React Native.",
+            "githubUserHighlight": "almost"
+        },
+        {
+            "downloads": 1309,
+            "description": "An invertible ScrollView for React Native.",
+            "githubUser": "exponentjs",
+            "modified": "2015-09-24T23:23:47.750Z",
+            "name": "react-native-invertible-scroll-view",
+            "stars": 54,
+            "latestVersion": "0.1.2",
+            "description_encoded": "An invertible ScrollView for React Native.",
+            "objectID": "126513260",
+            "nameHighlight": "react-native-invertible-scroll-view",
+            "descriptionHighlight": "An invertible ScrollView for React Native.",
+            "githubUserHighlight": "exponentjs"
+        },
+        {
+            "modified": "2015-09-24T20:59:45.970Z",
+            "downloads": 72,
+            "name": "react-native-browser",
+            "stars": 18,
+            "latestVersion": "0.5.2",
+            "description": "Full-featured web browser module for React Native apps, based on TOWebViewController.",
+            "githubUser": "PrestoDoctor",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "Full-featured web browser module for React Native apps, based on TOWebViewController.",
+            "objectID": "126515650",
+            "nameHighlight": "react-native-browser",
+            "descriptionHighlight": "Full-featured web browser module for React Native apps, based on TOWebViewController.",
+            "githubUserHighlight": "PrestoDoctor"
+        },
+        {
+            "modified": "2015-09-24T20:59:29.434Z",
+            "latestVersion": "0.1.0",
+            "name": "react-native-simple-store",
+            "downloads": 304,
+            "githubUser": "jasonmerino",
+            "description": "A minimalistic wrapper around React Native&#39;s AsyncStorage.",
+            "stars": 14,
+            "description_encoded": "A minimalistic wrapper around React Native&#38;#39;s AsyncStorage.",
+            "objectID": "126515160",
+            "nameHighlight": "react-native-simple-store",
+            "descriptionHighlight": "A minimalistic wrapper around React Native&#39;s AsyncStorage.",
+            "githubUserHighlight": "jasonmerino"
+        },
+        {
+            "stars": 31,
+            "githubUser": "chirag04",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 725,
+            "latestVersion": "2.2.0",
+            "name": "react-native-tooltip",
+            "modified": "2015-09-24T19:28:30.801Z",
+            "description": "A react-native wrapper for showing tooltips.",
+            "description_encoded": "A react-native wrapper for showing tooltips.",
+            "objectID": "126513720",
+            "nameHighlight": "react-native-tooltip",
+            "descriptionHighlight": "A react-native wrapper for showing tooltips.",
+            "githubUserHighlight": "chirag04"
+        },
+        {
+            "latestVersion": "2.1.0",
+            "modified": "2015-09-24T19:27:24.037Z",
+            "downloads": 479,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "chirag04",
+            "stars": 35,
+            "name": "react-native-in-app-utils",
+            "description": "A react-native wrapper for handling in-app payments.",
+            "description_encoded": "A react-native wrapper for handling in-app payments.",
+            "objectID": "126513930",
+            "nameHighlight": "react-native-in-app-utils",
+            "descriptionHighlight": "A react-native wrapper for handling in-app payments.",
+            "githubUserHighlight": "chirag04"
+        },
+        {
+            "description": "A react-native wrapper for syncing with icloud.",
+            "downloads": 112,
+            "latestVersion": "0.2.0",
+            "githubUser": "chirag04",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-09-24T19:25:04.765Z",
+            "stars": 4,
+            "name": "react-native-icloud-sync",
+            "description_encoded": "A react-native wrapper for syncing with icloud.",
+            "objectID": "126514470",
+            "nameHighlight": "react-native-icloud-sync",
+            "descriptionHighlight": "A react-native wrapper for syncing with icloud.",
+            "githubUserHighlight": "chirag04"
+        },
+        {
+            "modified": "2015-09-24T15:30:00.414Z",
+            "downloads": 45,
+            "name": "react-native-xmpp",
+            "stars": 8,
+            "latestVersion": "0.0.2",
+            "description": "XMPP Library for React Native.",
+            "githubUser": "aksonov",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "XMPP Library for React Native.",
+            "objectID": "126515670",
+            "nameHighlight": "react-native-xmpp",
+            "descriptionHighlight": "XMPP Library for React Native.",
+            "githubUserHighlight": "aksonov"
+        },
+        {
+            "latestVersion": "1.7.0",
+            "modified": "2015-09-24T15:11:17.203Z",
+            "downloads": 639,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "yamill",
+            "stars": 31,
+            "name": "react-native-orientation",
+            "description": "Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis.",
+            "description_encoded": "Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis.",
+            "objectID": "126514310",
+            "nameHighlight": "react-native-orientation",
+            "descriptionHighlight": "Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis.",
+            "githubUserHighlight": "yamill"
+        },
+        {
+            "modified": "2015-09-24T10:39:12.698Z",
+            "downloads": 31,
+            "name": "react-native-android-sqlite",
+            "stars": 5,
+            "latestVersion": "0.1.1",
+            "description": "A react native android wrapper for SQLite.",
+            "githubUser": "jbrodriguez",
+            "platforms": {
+                "android": true
+            },
+            "description_encoded": "A react native android wrapper for SQLite.",
+            "objectID": "126515640",
+            "nameHighlight": "react-native-android-sqlite",
+            "descriptionHighlight": "A react native android wrapper for SQLite.",
+            "githubUserHighlight": "jbrodriguez"
+        },
+        {
+            "name": "react-router-native",
+            "githubUser": "rackt",
+            "githubName": "react-router",
+            "description": "A complete routing library for React.js.",
+            "modified": "2015-09-24T03:05:32.092Z",
+            "stars": 7124,
+            "downloads": 43,
+            "latestVersion": "0.0.1",
+            "description_encoded": "A complete routing library for React.js.",
+            "objectID": "126515680",
+            "nameHighlight": "react-router-native",
+            "descriptionHighlight": "A complete routing library for React.js.",
+            "githubUserHighlight": "rackt"
+        },
+        {
+            "modified": "2015-09-24T01:36:16.595Z",
+            "downloads": 88,
+            "name": "react-native-orientation-listener",
+            "stars": 39,
+            "latestVersion": "0.0.2",
+            "description": "A react-native library for obtaining current device orientation.",
+            "githubUser": "walmartreact",
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "description_encoded": "A react-native library for obtaining current device orientation.",
+            "objectID": "126515470",
+            "nameHighlight": "react-native-orientation-listener",
+            "descriptionHighlight": "A react-native library for obtaining current device orientation.",
+            "githubUserHighlight": "walmartreact"
+        },
+        {
+            "name": "react-native-debug",
+            "githubUser": "bmcmahen",
+            "githubName": "debug",
+            "description": "small debugging utility.",
+            "modified": "2015-09-22T22:40:10.483Z",
+            "stars": 0,
+            "downloads": 21,
+            "latestVersion": "3.0.0",
+            "description_encoded": "small debugging utility.",
+            "objectID": "126515620",
+            "nameHighlight": "react-native-debug",
+            "descriptionHighlight": "small debugging utility.",
+            "githubUserHighlight": "bmcmahen"
+        },
+        {
+            "modified": "2015-09-22T21:55:28.603Z",
+            "downloads": 29,
+            "name": "react-native-switcher",
+            "stars": 31,
+            "latestVersion": "0.1.0",
+            "description": "## Installation.",
+            "githubUser": "olivierlesnicki",
+            "description_encoded": "## Installation.",
+            "objectID": "126515630",
+            "nameHighlight": "react-native-switcher",
+            "descriptionHighlight": "## Installation.",
+            "githubUserHighlight": "olivierlesnicki"
+        }
+    ],
+    "initialCount": 324,
+    "perPage": 20,
+    "debugMode": false
+}

@@ -1,0 +1,337 @@
+{
+    "initialComponents": [
+        {
+            "stars": 137,
+            "githubUser": "dancormier",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 4437,
+            "latestVersion": "2.0.8",
+            "name": "react-native-swipeout",
+            "modified": "2015-09-09T23:46:24.848Z",
+            "description": "iOS-style swipeout buttons behind component.",
+            "description_encoded": "iOS-style swipeout buttons behind component.",
+            "objectID": "126513810",
+            "nameHighlight": "react-native-swipeout",
+            "descriptionHighlight": "iOS-style swipeout buttons behind component.",
+            "githubUserHighlight": "dancormier"
+        },
+        {
+            "latestVersion": "1.0.5",
+            "modified": "2015-09-09T23:33:57.330Z",
+            "downloads": 2109,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "dancormier",
+            "stars": 25,
+            "name": "react-native-listitem",
+            "description": "iOS-style listitem component.",
+            "description_encoded": "iOS-style listitem component.",
+            "objectID": "126513920",
+            "nameHighlight": "react-native-listitem",
+            "descriptionHighlight": "iOS-style listitem component.",
+            "githubUserHighlight": "dancormier"
+        },
+        {
+            "modified": "2015-09-09T12:51:43.045Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "0.0.3",
+            "name": "react-native-gesture-password",
+            "downloads": 110,
+            "githubUser": "Spikef",
+            "description": "A gesture password component for React Native.",
+            "stars": 24,
+            "description_encoded": "A gesture password component for React Native.",
+            "objectID": "126515330",
+            "nameHighlight": "react-native-gesture-password",
+            "descriptionHighlight": "A gesture password component for React Native.",
+            "githubUserHighlight": "Spikef"
+        },
+        {
+            "stars": 48,
+            "githubUser": "naoufal",
+            "downloads": 618,
+            "latestVersion": "0.2.2",
+            "name": "react-native-accordion",
+            "modified": "2015-09-09T12:45:52.141Z",
+            "description": "An Accordion Component for React Native.",
+            "description_encoded": "An Accordion Component for React Native.",
+            "objectID": "126513790",
+            "nameHighlight": "react-native-accordion",
+            "descriptionHighlight": "An Accordion Component for React Native.",
+            "githubUserHighlight": "naoufal"
+        },
+        {
+            "latestVersion": "0.1.0",
+            "modified": "2015-09-09T09:00:55.660Z",
+            "downloads": 688,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "artemyarulin",
+            "stars": 4,
+            "name": "react-native-eval",
+            "description": "Call any JS functions from your native code.",
+            "description_encoded": "Call any JS functions from your native code.",
+            "objectID": "126514300",
+            "nameHighlight": "react-native-eval",
+            "descriptionHighlight": "Call any JS functions from your native code.",
+            "githubUserHighlight": "artemyarulin"
+        },
+        {
+            "modified": "2015-09-08T18:06:49.564Z",
+            "downloads": 33,
+            "name": "react-native-battery-status-ios",
+            "stars": 0,
+            "latestVersion": "0.1.0",
+            "description": "A react-native interface for getting the battery status on an ios device.",
+            "githubUser": "rhaker",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "A react-native interface for getting the battery status on an ios device.",
+            "objectID": "126515400",
+            "nameHighlight": "react-native-battery-status-ios",
+            "descriptionHighlight": "A react-native interface for getting the battery status on an ios device.",
+            "githubUserHighlight": "rhaker"
+        },
+        {
+            "latestVersion": "0.3.6",
+            "modified": "2015-09-08T14:00:32.171Z",
+            "downloads": 1033,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "alinz",
+            "stars": 30,
+            "name": "react-native-webview-bridge",
+            "description": "React Native WebView Javascript Bridge.",
+            "description_encoded": "React Native WebView Javascript Bridge.",
+            "objectID": "126514240",
+            "nameHighlight": "react-native-webview-bridge",
+            "descriptionHighlight": "React Native WebView Javascript Bridge.",
+            "githubUserHighlight": "alinz"
+        },
+        {
+            "stars": 12,
+            "githubUser": "gilbox",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 464,
+            "latestVersion": "0.2.0",
+            "name": "react-native-masked-view",
+            "modified": "2015-09-08T04:44:59.845Z",
+            "description": "A &#60;MaskedView&#62; element for react-native.",
+            "description_encoded": "A &#38;#60;MaskedView&#38;#62; element for react-native.",
+            "objectID": "126513840",
+            "nameHighlight": "react-native-masked-view",
+            "descriptionHighlight": "A &#60;MaskedView&#62; element for react-native.",
+            "githubUserHighlight": "gilbox"
+        },
+        {
+            "stars": 31,
+            "githubUser": "christopherdro",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 958,
+            "latestVersion": "0.5.0",
+            "name": "react-native-calendar",
+            "modified": "2015-09-07T21:26:10.758Z",
+            "description": "Simple Calendar Component for React Native.",
+            "description_encoded": "Simple Calendar Component for React Native.",
+            "objectID": "126513770",
+            "nameHighlight": "react-native-calendar",
+            "descriptionHighlight": "Simple Calendar Component for React Native.",
+            "githubUserHighlight": "christopherdro"
+        },
+        {
+            "modified": "2015-09-07T14:18:01.565Z",
+            "downloads": 32,
+            "name": "rn-china-region-picker",
+            "stars": 6,
+            "latestVersion": "1.0.0",
+            "description": "china region province city area picker.",
+            "githubUser": "hufeng",
+            "description_encoded": "china region province city area picker.",
+            "objectID": "126515390",
+            "nameHighlight": "rn-china-region-picker",
+            "descriptionHighlight": "china region province city area picker.",
+            "githubUserHighlight": "hufeng"
+        },
+        {
+            "modified": "2015-09-06T23:25:04.661Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "0.2.0",
+            "name": "react-native-control-screen-sleep-ios",
+            "downloads": 67,
+            "githubUser": "rhaker",
+            "description": "A react-native interface for controlling the screen sleep mode. Can be on, off, or toggled.",
+            "stars": 2,
+            "description_encoded": "A react-native interface for controlling the screen sleep mode. Can be on, off, or toggled.",
+            "objectID": "126515300",
+            "nameHighlight": "react-native-control-screen-sleep-ios",
+            "descriptionHighlight": "A react-native interface for controlling the screen sleep mode. Can be on, off, or toggled.",
+            "githubUserHighlight": "rhaker"
+        },
+        {
+            "modified": "2015-09-06T23:08:20.517Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "0.1.0",
+            "name": "react-native-control-flashlight-ios",
+            "downloads": 34,
+            "githubUser": "rhaker",
+            "description": "A react-native interface for controlling an ios device&#39;s flashlight. Can be on or off.",
+            "stars": 0,
+            "description_encoded": "A react-native interface for controlling an ios device&#38;#39;s flashlight. Can be on or off.",
+            "objectID": "126515290",
+            "nameHighlight": "react-native-control-flashlight-ios",
+            "descriptionHighlight": "A react-native interface for controlling an ios device&#39;s flashlight. Can be on or off.",
+            "githubUserHighlight": "rhaker"
+        },
+        {
+            "modified": "2015-09-05T01:05:09.157Z",
+            "downloads": 70,
+            "name": "react-native-print",
+            "stars": 8,
+            "latestVersion": "0.1.1",
+            "description": "Print documents with React Native.",
+            "githubUser": "christopherdro",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "Print documents with React Native.",
+            "objectID": "126515370",
+            "nameHighlight": "react-native-print",
+            "descriptionHighlight": "Print documents with React Native.",
+            "githubUserHighlight": "christopherdro"
+        },
+        {
+            "modified": "2015-09-05T00:23:36.981Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "0.2.0",
+            "name": "react-native-file-upload-to-server-ios",
+            "downloads": 69,
+            "githubUser": "rhaker",
+            "description": "A react-native interface for uploading a file in the app documents directory to an external server.",
+            "stars": 2,
+            "description_encoded": "A react-native interface for uploading a file in the app documents directory to an external server.",
+            "objectID": "126515310",
+            "nameHighlight": "react-native-file-upload-to-server-ios",
+            "descriptionHighlight": "A react-native interface for uploading a file in the app documents directory to an external server.",
+            "githubUserHighlight": "rhaker"
+        },
+        {
+            "latestVersion": "0.1.9",
+            "modified": "2015-09-04T15:22:45.870Z",
+            "downloads": 980,
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "githubUser": "xinthink",
+            "stars": 151,
+            "name": "react-native-material-kit",
+            "description": "Bringing Material Design to React Native.",
+            "description_encoded": "Bringing Material Design to React Native.",
+            "objectID": "126514260",
+            "nameHighlight": "react-native-material-kit",
+            "descriptionHighlight": "Bringing Material Design to React Native.",
+            "githubUserHighlight": "xinthink"
+        },
+        {
+            "description": "Get the device UUID for iOS device.",
+            "downloads": 622,
+            "latestVersion": "1.1.2",
+            "githubUser": "lazywei",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-09-04T12:31:56.346Z",
+            "stars": 29,
+            "name": "react-native-device-uuid",
+            "description_encoded": "Get the device UUID for iOS device.",
+            "objectID": "126514840",
+            "nameHighlight": "react-native-device-uuid",
+            "descriptionHighlight": "Get the device UUID for iOS device.",
+            "githubUserHighlight": "lazywei"
+        },
+        {
+            "modified": "2015-09-03T17:58:47.557Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "0.0.5",
+            "name": "react-native-spinkit",
+            "downloads": 265,
+            "githubUser": "maxs15",
+            "description": "A collection of animated loading indicators for React Native.",
+            "stars": 51,
+            "description_encoded": "A collection of animated loading indicators for React Native.",
+            "objectID": "126515140",
+            "nameHighlight": "react-native-spinkit",
+            "descriptionHighlight": "A collection of animated loading indicators for React Native.",
+            "githubUserHighlight": "maxs15"
+        },
+        {
+            "latestVersion": "0.2.1",
+            "modified": "2015-09-03T11:49:41.449Z",
+            "downloads": 474,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "jsierles",
+            "stars": 54,
+            "name": "react-native-audio",
+            "description": "React Native library for simple audio recording. Wraps AVAudioRecorder/Player.",
+            "description_encoded": "React Native library for simple audio recording. Wraps AVAudioRecorder/Player.",
+            "objectID": "126514220",
+            "nameHighlight": "react-native-audio",
+            "descriptionHighlight": "React Native library for simple audio recording. Wraps AVAudioRecorder/Player.",
+            "githubUserHighlight": "jsierles"
+        },
+        {
+            "name": "rn-redux-mixpanel",
+            "githubUser": "danscan",
+            "githubName": "redux-mixpanel",
+            "description": "Configurable redux middleware that sends your actions &#38; user profile data to Mixpanel.",
+            "modified": "2015-09-03T11:49:28.767Z",
+            "stars": 7,
+            "downloads": 410,
+            "latestVersion": "1.1.5",
+            "description_encoded": "Configurable redux middleware that sends your actions &#38;#38; user profile data to Mixpanel.",
+            "objectID": "126515830",
+            "nameHighlight": "rn-redux-mixpanel",
+            "descriptionHighlight": "Configurable redux middleware that sends your actions &#38; user profile data to Mixpanel.",
+            "githubUserHighlight": "danscan"
+        },
+        {
+            "stars": 3,
+            "githubUser": "exponentjs",
+            "downloads": 479,
+            "latestVersion": "4.1.0",
+            "name": "react-native-link",
+            "modified": "2015-09-03T08:54:19.858Z",
+            "description": "A &#60;Link&#62; element for React Native, analogous to the &#60;A&#62; tag in HTML.",
+            "description_encoded": "A &#38;#60;Link&#38;#62; element for React Native, analogous to the &#38;#60;A&#38;#62; tag in HTML.",
+            "objectID": "126513750",
+            "nameHighlight": "react-native-link",
+            "descriptionHighlight": "A &#60;Link&#62; element for React Native, analogous to the &#60;A&#62; tag in HTML.",
+            "githubUserHighlight": "exponentjs"
+        }
+    ],
+    "initialCount": 324,
+    "perPage": 20,
+    "debugMode": false
+}

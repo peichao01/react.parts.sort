@@ -1,0 +1,321 @@
+{
+    "initialComponents": [
+        {
+            "modified": "2015-08-25T16:06:25.977Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "1.0.1",
+            "name": "react-native-idle-timer",
+            "downloads": 64,
+            "githubUser": "marcshilling",
+            "description": "An Objective-C bridge that allows you to enable and disable the screen idle timer in your React Native app.",
+            "stars": 5,
+            "description_encoded": "An Objective-C bridge that allows you to enable and disable the screen idle timer in your React Native app.",
+            "objectID": "126515150",
+            "nameHighlight": "react-native-idle-timer",
+            "descriptionHighlight": "An Objective-C bridge that allows you to enable and disable the screen idle timer in your React Native app.",
+            "githubUserHighlight": "marcshilling"
+        },
+        {
+            "downloads": 5885,
+            "description": "Simple customizable navbar component for react-native.",
+            "githubUser": "Kureev",
+            "modified": "2015-08-25T14:46:02.812Z",
+            "name": "react-native-navbar",
+            "stars": 300,
+            "latestVersion": "0.8.2",
+            "description_encoded": "Simple customizable navbar component for react-native.",
+            "objectID": "126513020",
+            "nameHighlight": "react-native-navbar",
+            "descriptionHighlight": "Simple customizable navbar component for react-native.",
+            "githubUserHighlight": "Kureev"
+        },
+        {
+            "modified": "2015-08-25T14:42:48.910Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "0.1.1",
+            "name": "react-native-google-plus-login",
+            "downloads": 656,
+            "githubUser": "justinmakaila",
+            "description": "A Google+ login manager and &#60;GooglePlusLoginButton /&#62; for react-native.",
+            "stars": 2,
+            "description_encoded": "A Google+ login manager and &#38;#60;GooglePlusLoginButton /&#38;#62; for react-native.",
+            "objectID": "126515090",
+            "nameHighlight": "react-native-google-plus-login",
+            "descriptionHighlight": "A Google+ login manager and &#60;GooglePlusLoginButton /&#62; for react-native.",
+            "githubUserHighlight": "justinmakaila"
+        },
+        {
+            "modified": "2015-08-24T10:38:05.294Z",
+            "latestVersion": "0.1.4",
+            "name": "react-native-google-static-map",
+            "downloads": 215,
+            "githubUser": "yelled3",
+            "description": "A wrapper for Google&#39;s Static Maps.",
+            "stars": 6,
+            "description_encoded": "A wrapper for Google&#38;#39;s Static Maps.",
+            "objectID": "126515100",
+            "nameHighlight": "react-native-google-static-map",
+            "descriptionHighlight": "A wrapper for Google&#39;s Static Maps.",
+            "githubUserHighlight": "yelled3"
+        },
+        {
+            "modified": "2015-08-24T02:45:00.700Z",
+            "latestVersion": "0.0.8",
+            "name": "react-native-slidable-tab-bar",
+            "downloads": 329,
+            "githubUser": "pwbrown",
+            "description": "Slidable tab bar for instant view rendering(react-native).",
+            "stars": 2,
+            "description_encoded": "Slidable tab bar for instant view rendering(react-native).",
+            "objectID": "126515130",
+            "nameHighlight": "react-native-slidable-tab-bar",
+            "descriptionHighlight": "Slidable tab bar for instant view rendering(react-native).",
+            "githubUserHighlight": "pwbrown"
+        },
+        {
+            "downloads": 5506,
+            "description": "An &#60;Overlay /&#62; component that brings content inside to the front of the view regardless of its current position in the component tree.",
+            "githubUser": "brentvatne",
+            "modified": "2015-08-22T18:40:35.003Z",
+            "name": "react-native-overlay",
+            "platforms": {
+                "ios": true
+            },
+            "stars": 123,
+            "latestVersion": "0.3.0",
+            "description_encoded": "An &#38;#60;Overlay /&#38;#62; component that brings content inside to the front of the view regardless of its current position in the component tree.",
+            "objectID": "126513170",
+            "nameHighlight": "react-native-overlay",
+            "descriptionHighlight": "An &#60;Overlay /&#62; component that brings content inside to the front of the view regardless of its current position in the component tree.",
+            "githubUserHighlight": "brentvatne"
+        },
+        {
+            "description": "Native social authentication for React Native on iOS.",
+            "downloads": 800,
+            "latestVersion": "0.2.8",
+            "githubUser": "adamjmcgrath",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-08-21T07:10:19.269Z",
+            "stars": 57,
+            "name": "react-native-simple-auth",
+            "description_encoded": "Native social authentication for React Native on iOS.",
+            "objectID": "126514440",
+            "nameHighlight": "react-native-simple-auth",
+            "descriptionHighlight": "Native social authentication for React Native on iOS.",
+            "githubUserHighlight": "adamjmcgrath"
+        },
+        {
+            "description": "A React Native module to provide a memory efficent ListView over the native implementation.",
+            "downloads": 263,
+            "latestVersion": "0.1.3",
+            "githubUser": "sghiassy",
+            "modified": "2015-08-20T17:49:11.700Z",
+            "stars": 86,
+            "name": "react-native-sglistview",
+            "description_encoded": "A React Native module to provide a memory efficent ListView over the native implementation.",
+            "objectID": "126514640",
+            "nameHighlight": "react-native-sglistview",
+            "descriptionHighlight": "A React Native module to provide a memory efficent ListView over the native implementation.",
+            "githubUserHighlight": "sghiassy"
+        },
+        {
+            "modified": "2015-08-20T07:45:56.645Z",
+            "latestVersion": "0.0.1-alpha.4",
+            "name": "k-react-native-swipe-unlocker",
+            "downloads": 146,
+            "githubUser": "leowang721",
+            "description": "A simple swipe unlock for React Native.",
+            "stars": 1,
+            "description_encoded": "A simple swipe unlock for React Native.",
+            "objectID": "126515040",
+            "nameHighlight": "k-react-native-swipe-unlocker",
+            "descriptionHighlight": "A simple swipe unlock for React Native.",
+            "githubUserHighlight": "leowang721"
+        },
+        {
+            "downloads": 377,
+            "description": "An animated progress bar component for React Native.",
+            "githubUser": "lwansbrough",
+            "modified": "2015-08-20T00:45:49.187Z",
+            "name": "react-native-progress-bar",
+            "stars": 49,
+            "latestVersion": "0.1.2",
+            "description_encoded": "An animated progress bar component for React Native.",
+            "objectID": "126513350",
+            "nameHighlight": "react-native-progress-bar",
+            "descriptionHighlight": "An animated progress bar component for React Native.",
+            "githubUserHighlight": "lwansbrough"
+        },
+        {
+            "downloads": 4046,
+            "description": "A button for React apps.",
+            "githubUser": "ide",
+            "modified": "2015-08-19T22:49:34.014Z",
+            "name": "react-native-button",
+            "stars": 87,
+            "latestVersion": "1.2.1",
+            "description_encoded": "A button for React apps.",
+            "objectID": "126512890",
+            "nameHighlight": "react-native-button",
+            "descriptionHighlight": "A button for React apps.",
+            "githubUserHighlight": "ide"
+        },
+        {
+            "description": "A react component to implement custom radio buttons-like behaviors: multiple options, only on can be selected at once.",
+            "downloads": 846,
+            "latestVersion": "0.5.0",
+            "githubUser": "ArnaudRinquin",
+            "modified": "2015-08-19T16:01:16.606Z",
+            "stars": 20,
+            "name": "react-native-radio-buttons",
+            "description_encoded": "A react component to implement custom radio buttons-like behaviors: multiple options, only on can be selected at once.",
+            "objectID": "126514430",
+            "nameHighlight": "react-native-radio-buttons",
+            "descriptionHighlight": "A react component to implement custom radio buttons-like behaviors: multiple options, only on can be selected at once.",
+            "githubUserHighlight": "ArnaudRinquin"
+        },
+        {
+            "description": "Copy text to clipboard.",
+            "downloads": 134,
+            "latestVersion": "1.3.0",
+            "githubUser": "yamill",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-08-17T21:32:48.444Z",
+            "stars": 19,
+            "name": "react-native-pasteboard",
+            "description_encoded": "Copy text to clipboard.",
+            "objectID": "126514560",
+            "nameHighlight": "react-native-pasteboard",
+            "descriptionHighlight": "Copy text to clipboard.",
+            "githubUserHighlight": "yamill"
+        },
+        {
+            "latestVersion": "0.1.2",
+            "modified": "2015-08-17T05:46:51.398Z",
+            "downloads": 185,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "RepairShopr",
+            "stars": 25,
+            "name": "react-native-signature-capture",
+            "description": "Lets users sign their signatures.",
+            "description_encoded": "Lets users sign their signatures.",
+            "objectID": "126514210",
+            "nameHighlight": "react-native-signature-capture",
+            "descriptionHighlight": "Lets users sign their signatures.",
+            "githubUserHighlight": "RepairShopr"
+        },
+        {
+            "stars": 34,
+            "githubUser": "oblador",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 1221,
+            "latestVersion": "0.2.5",
+            "name": "react-native-keychain",
+            "modified": "2015-08-16T21:02:12.502Z",
+            "description": "Keychain Access for React Native.",
+            "description_encoded": "Keychain Access for React Native.",
+            "objectID": "126513780",
+            "nameHighlight": "react-native-keychain",
+            "descriptionHighlight": "Keychain Access for React Native.",
+            "githubUserHighlight": "oblador"
+        },
+        {
+            "description": "a react native LeanCloud component.",
+            "downloads": 40,
+            "latestVersion": "0.0.0",
+            "githubUser": "turingou",
+            "modified": "2015-08-16T18:38:29.255Z",
+            "stars": 4,
+            "name": "react-native-leancloud",
+            "description_encoded": "a react native LeanCloud component.",
+            "objectID": "126514710",
+            "nameHighlight": "react-native-leancloud",
+            "descriptionHighlight": "a react native LeanCloud component.",
+            "githubUserHighlight": "turingou"
+        },
+        {
+            "modified": "2015-08-15T08:47:35.239Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "0.0.3",
+            "name": "react-native-voximplant",
+            "downloads": 85,
+            "githubUser": "voximplant",
+            "description": "VoxImplant Mobile SDK for embedding voice and video communication into React Native apps.",
+            "stars": 9,
+            "description_encoded": "VoxImplant Mobile SDK for embedding voice and video communication into React Native apps.",
+            "objectID": "126515010",
+            "nameHighlight": "react-native-voximplant",
+            "descriptionHighlight": "VoxImplant Mobile SDK for embedding voice and video communication into React Native apps.",
+            "githubUserHighlight": "voximplant"
+        },
+        {
+            "description": "Google Signin for your react native applications.",
+            "downloads": 103,
+            "latestVersion": "0.1.3",
+            "githubUser": "apptailor",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-08-14T03:55:01.382Z",
+            "stars": 10,
+            "name": "react-native-google-signin",
+            "description_encoded": "Google Signin for your react native applications.",
+            "objectID": "126514630",
+            "nameHighlight": "react-native-google-signin",
+            "descriptionHighlight": "Google Signin for your react native applications.",
+            "githubUserHighlight": "apptailor"
+        },
+        {
+            "name": "react-native-swipeable-modal",
+            "githubUser": "apolkingg8",
+            "githubName": "React-Native-Swipeable-Modal",
+            "description": "Swipeable modal component for react-native.",
+            "modified": "2015-08-14T01:04:12.615Z",
+            "stars": 55,
+            "downloads": 1290,
+            "latestVersion": "1.3.4",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "Swipeable modal component for react-native.",
+            "objectID": "126514000",
+            "nameHighlight": "react-native-swipeable-modal",
+            "descriptionHighlight": "Swipeable modal component for react-native.",
+            "githubUserHighlight": "apolkingg8"
+        },
+        {
+            "description": "React native component for finding dominant colors in an image.",
+            "downloads": 126,
+            "latestVersion": "0.0.3",
+            "githubUser": "bsudekum",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-08-13T16:34:10.002Z",
+            "stars": 11,
+            "name": "react-native-color-grabber",
+            "description_encoded": "React native component for finding dominant colors in an image.",
+            "objectID": "126514620",
+            "nameHighlight": "react-native-color-grabber",
+            "descriptionHighlight": "React native component for finding dominant colors in an image.",
+            "githubUserHighlight": "bsudekum"
+        }
+    ],
+    "initialCount": 324,
+    "perPage": 20,
+    "debugMode": false
+}

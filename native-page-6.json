@@ -1,0 +1,327 @@
+{
+    "initialComponents": [
+        {
+            "modified": "2015-09-22T17:55:21.344Z",
+            "downloads": 212,
+            "name": "gulp-react-native-stylesheet-css",
+            "stars": 6,
+            "latestVersion": "1.4.0",
+            "description": "Gulp plugin for converting CSS files to React Native StyleSheets.",
+            "githubUser": "jjshammas",
+            "description_encoded": "Gulp plugin for converting CSS files to React Native StyleSheets.",
+            "objectID": "126515480",
+            "nameHighlight": "gulp-react-native-stylesheet-css",
+            "descriptionHighlight": "Gulp plugin for converting CSS files to React Native StyleSheets.",
+            "githubUserHighlight": "jjshammas"
+        },
+        {
+            "modified": "2015-09-22T16:55:43.889Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "0.1.1",
+            "name": "react-native-html-to-pdf",
+            "downloads": 107,
+            "githubUser": "christopherdro",
+            "description": "Convert html strings to PDF documents using React Native.",
+            "stars": 15,
+            "description_encoded": "Convert html strings to PDF documents using React Native.",
+            "objectID": "126515340",
+            "nameHighlight": "react-native-html-to-pdf",
+            "descriptionHighlight": "Convert html strings to PDF documents using React Native.",
+            "githubUserHighlight": "christopherdro"
+        },
+        {
+            "name": "gravatar-api",
+            "githubUser": "lwhiteley",
+            "githubName": "nodejs-gravatar",
+            "description": "module to build image and profile urls for gravatar.",
+            "modified": "2015-09-22T12:06:28.284Z",
+            "stars": 0,
+            "downloads": 1146,
+            "latestVersion": "1.2.5",
+            "description_encoded": "module to build image and profile urls for gravatar.",
+            "objectID": "126515590",
+            "nameHighlight": "gravatar-api",
+            "descriptionHighlight": "module to build image and profile urls for gravatar.",
+            "githubUserHighlight": "lwhiteley"
+        },
+        {
+            "downloads": 693,
+            "description": "Incredibly simple utility for (sort of) using viewport units with React Native.",
+            "githubUser": "jmstout",
+            "modified": "2015-09-22T04:51:30.946Z",
+            "name": "react-native-viewport-units",
+            "stars": 22,
+            "latestVersion": "0.0.5",
+            "description_encoded": "Incredibly simple utility for (sort of) using viewport units with React Native.",
+            "objectID": "126512870",
+            "nameHighlight": "react-native-viewport-units",
+            "descriptionHighlight": "Incredibly simple utility for (sort of) using viewport units with React Native.",
+            "githubUserHighlight": "jmstout"
+        },
+        {
+            "description": "React Native Bridge for ADBannerView.",
+            "downloads": 164,
+            "latestVersion": "1.0.3",
+            "githubUser": "Purii",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-09-21T23:30:56.815Z",
+            "stars": 6,
+            "name": "react-native-adbannerview",
+            "description_encoded": "React Native Bridge for ADBannerView.",
+            "objectID": "126514540",
+            "nameHighlight": "react-native-adbannerview",
+            "descriptionHighlight": "React Native Bridge for ADBannerView.",
+            "githubUserHighlight": "Purii"
+        },
+        {
+            "latestVersion": "0.7.1",
+            "modified": "2015-09-21T18:06:00.225Z",
+            "downloads": 1541,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "marcshilling",
+            "stars": 80,
+            "name": "react-native-image-picker",
+            "description": "A React Native module that allows you to use the native UIImagePickerController UI to select a photo from the device library or directly from the camera.",
+            "description_encoded": "A React Native module that allows you to use the native UIImagePickerController UI to select a photo from the device library or directly from the camera.",
+            "objectID": "126514230",
+            "nameHighlight": "react-native-image-picker",
+            "descriptionHighlight": "A React Native module that allows you to use the native UIImagePickerController UI to select a photo from the device library or directly from the camera.",
+            "githubUserHighlight": "marcshilling"
+        },
+        {
+            "name": "react-native-realtimemessaging-android",
+            "githubUser": "realtime-framework",
+            "githubName": "RCTRealtimeMessagingAndroid",
+            "description": "The Realtime Framework Cloud Messaging Pub/Sub client for React-Native Android.",
+            "modified": "2015-09-21T11:45:18.299Z",
+            "stars": 17,
+            "downloads": 29,
+            "latestVersion": "1.0.1",
+            "platforms": {
+                "android": true
+            },
+            "description_encoded": "The Realtime Framework Cloud Messaging Pub/Sub client for React-Native Android.",
+            "objectID": "126515610",
+            "nameHighlight": "react-native-realtimemessaging-android",
+            "descriptionHighlight": "The Realtime Framework Cloud Messaging Pub/Sub client for React-Native Android.",
+            "githubUserHighlight": "realtime-framework"
+        },
+        {
+            "downloads": 2804,
+            "description": "react-native powered UI library for developing forms writing less code.",
+            "githubUser": "gcanti",
+            "modified": "2015-09-21T07:54:05.386Z",
+            "name": "tcomb-form-native",
+            "stars": 475,
+            "latestVersion": "0.2.7",
+            "description_encoded": "react-native powered UI library for developing forms writing less code.",
+            "objectID": "126513100",
+            "nameHighlight": "tcomb-form-native",
+            "descriptionHighlight": "react-native powered UI library for developing forms writing less code.",
+            "githubUserHighlight": "gcanti"
+        },
+        {
+            "downloads": 3367,
+            "description": "React Native wrapper for native iOS Facebook SDK login button and manager.",
+            "githubUser": "magus",
+            "modified": "2015-09-19T22:23:37.960Z",
+            "name": "react-native-facebook-login",
+            "platforms": {
+                "ios": true
+            },
+            "stars": 133,
+            "latestVersion": "0.5.8",
+            "description_encoded": "React Native wrapper for native iOS Facebook SDK login button and manager.",
+            "objectID": "126512920",
+            "nameHighlight": "react-native-facebook-login",
+            "descriptionHighlight": "React Native wrapper for native iOS Facebook SDK login button and manager.",
+            "githubUserHighlight": "magus"
+        },
+        {
+            "modified": "2015-09-19T00:31:58.969Z",
+            "downloads": 351,
+            "name": "react-native-drawer-layout",
+            "stars": 61,
+            "latestVersion": "0.1.4",
+            "description": "A platform-agnostic drawer layout. Pure JavaScript implementation on iOS and native implementation on Android.",
+            "githubUser": "iodine",
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "description_encoded": "A platform-agnostic drawer layout. Pure JavaScript implementation on iOS and native implementation on Android.",
+            "objectID": "126515570",
+            "nameHighlight": "react-native-drawer-layout",
+            "descriptionHighlight": "A platform-agnostic drawer layout. Pure JavaScript implementation on iOS and native implementation on Android.",
+            "githubUserHighlight": "iodine"
+        },
+        {
+            "latestVersion": "2.2.0",
+            "modified": "2015-09-18T20:29:52.198Z",
+            "downloads": 2535,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "umhan35",
+            "stars": 58,
+            "name": "react-native-search-bar",
+            "description": "The native search bar for react native.",
+            "description_encoded": "The native search bar for react native.",
+            "objectID": "126513950",
+            "nameHighlight": "react-native-search-bar",
+            "descriptionHighlight": "The native search bar for react native.",
+            "githubUserHighlight": "umhan35"
+        },
+        {
+            "modified": "2015-09-18T18:09:53.696Z",
+            "downloads": 27,
+            "name": "react-native-platform-visible",
+            "stars": 24,
+            "latestVersion": "0.0.1",
+            "description": "A very simple component visibility switch based on Platform.",
+            "githubUser": "walmartreact",
+            "description_encoded": "A very simple component visibility switch based on Platform.",
+            "objectID": "126515600",
+            "nameHighlight": "react-native-platform-visible",
+            "descriptionHighlight": "A very simple component visibility switch based on Platform.",
+            "githubUserHighlight": "walmartreact"
+        },
+        {
+            "downloads": 666,
+            "description": "A simple database base on react-native AsyncStorage.",
+            "githubUser": "thewei",
+            "modified": "2015-09-18T15:21:29.667Z",
+            "name": "react-native-store",
+            "stars": 82,
+            "latestVersion": "0.0.9",
+            "description_encoded": "A simple database base on react-native AsyncStorage.",
+            "objectID": "126513070",
+            "nameHighlight": "react-native-store",
+            "descriptionHighlight": "A simple database base on react-native AsyncStorage.",
+            "githubUserHighlight": "thewei"
+        },
+        {
+            "modified": "2015-09-18T00:08:28.824Z",
+            "downloads": 93,
+            "name": "react-native-android-badge",
+            "stars": 9,
+            "latestVersion": "0.2.0",
+            "description": "A react native wrapper for leolin310148/ShortcutBadger.",
+            "githubUser": "jhen0409",
+            "platforms": {
+                "android": true
+            },
+            "description_encoded": "A react native wrapper for leolin310148/ShortcutBadger.",
+            "objectID": "126515490",
+            "nameHighlight": "react-native-android-badge",
+            "descriptionHighlight": "A react native wrapper for leolin310148/ShortcutBadger.",
+            "githubUserHighlight": "jhen0409"
+        },
+        {
+            "name": "react-native-autocomplete",
+            "githubUser": "nulrich",
+            "githubName": "RCTAutoComplete",
+            "description": "React Native Component for MLPAutoCompleteTextField.",
+            "modified": "2015-09-17T22:11:18.935Z",
+            "stars": 36,
+            "downloads": 689,
+            "latestVersion": "0.1.0",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "React Native Component for MLPAutoCompleteTextField.",
+            "objectID": "126514130",
+            "nameHighlight": "react-native-autocomplete",
+            "descriptionHighlight": "React Native Component for MLPAutoCompleteTextField.",
+            "githubUserHighlight": "nulrich"
+        },
+        {
+            "stars": 170,
+            "githubUser": "mapbox",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 1933,
+            "latestVersion": "0.4.2",
+            "name": "react-native-mapbox-gl",
+            "modified": "2015-09-17T17:57:41.093Z",
+            "description": "A Mapbox GL react native module for creating custom maps.",
+            "description_encoded": "A Mapbox GL react native module for creating custom maps.",
+            "objectID": "126513380",
+            "nameHighlight": "react-native-mapbox-gl",
+            "descriptionHighlight": "A Mapbox GL react native module for creating custom maps.",
+            "githubUserHighlight": "mapbox"
+        },
+        {
+            "modified": "2015-09-17T17:30:00.304Z",
+            "downloads": 30,
+            "name": "react-native-record-audio-ios",
+            "stars": 0,
+            "latestVersion": "0.1.0",
+            "description": "A react-native interface for recording audio on an ios device. Supports .caf, .m4a, and .wav files.",
+            "githubUser": "rhaker",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "A react-native interface for recording audio on an ios device. Supports .caf, .m4a, and .wav files.",
+            "objectID": "126515580",
+            "nameHighlight": "react-native-record-audio-ios",
+            "descriptionHighlight": "A react-native interface for recording audio on an ios device. Supports .caf, .m4a, and .wav files.",
+            "githubUserHighlight": "rhaker"
+        },
+        {
+            "modified": "2015-09-17T14:59:54.929Z",
+            "downloads": 131,
+            "name": "envirs-react-native-cli",
+            "stars": 2,
+            "latestVersion": "0.0.4",
+            "description": "A react native command tool build by Envirs Team.",
+            "githubUser": "Spikef",
+            "description_encoded": "A react native command tool build by Envirs Team.",
+            "objectID": "126515560",
+            "nameHighlight": "envirs-react-native-cli",
+            "descriptionHighlight": "A react native command tool build by Envirs Team.",
+            "githubUserHighlight": "Spikef"
+        },
+        {
+            "modified": "2015-09-17T02:54:14.089Z",
+            "downloads": 30,
+            "name": "react-native-play-audio-ios",
+            "stars": 1,
+            "latestVersion": "0.1.0",
+            "description": "A react-native interface for controlling audio on an ios device. Play, stop, and pause.",
+            "githubUser": "rhaker",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "A react-native interface for controlling audio on an ios device. Play, stop, and pause.",
+            "objectID": "126515540",
+            "nameHighlight": "react-native-play-audio-ios",
+            "descriptionHighlight": "A react-native interface for controlling audio on an ios device. Play, stop, and pause.",
+            "githubUserHighlight": "rhaker"
+        },
+        {
+            "latestVersion": "1.3.0",
+            "modified": "2015-09-17T02:11:54.309Z",
+            "downloads": 1433,
+            "githubUser": "rt2zz",
+            "stars": 132,
+            "name": "react-native-drawer",
+            "description": "React Native Drawer.",
+            "description_encoded": "React Native Drawer.",
+            "objectID": "126513910",
+            "nameHighlight": "react-native-drawer",
+            "descriptionHighlight": "React Native Drawer.",
+            "githubUserHighlight": "rt2zz"
+        }
+    ],
+    "initialCount": 324,
+    "perPage": 20,
+    "debugMode": false
+}

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>sort React Native Components from react.parts</title>
+		<style>
+*{padding:0;margin:0}
+li{list-style: none;}
+html{background-color:rgb(235, 237, 242);font-family:Source Sans Pro, sans-serif;}
+
+.order{width:900px;margin:0 auto;padding: 20px 0 0;text-align:center;}
+.order h2{padding:10px 0 20px;}
+.order p{display:flex;}
+.order span{flex:1;padding:10px 0;color:rgb(75, 103, 165);font-weight:bold;font-size:18px;background:#fff;}
+.order span.selected{background:rgb(75, 103, 165);color:#fff;}
+
+.list-wrapper{width:900px;margin:0 auto 80px;background-color:#fff;}
+.list-wrapper li{border-top: 1px solid #eee;}
+.list-wrapper h2{font-size:22px;}
+.list-wrapper a{display: block;color:#000;text-decoration: none;padding: 10px;}
+.list-wrapper p{padding:5px 0;}
+.list-wrapper .info{color:#ccc;}
+.list-wrapper .platform span{padding: 3px 5px; margin-right: 5px;background-color: rgba(75, 103, 165,.5);color:#fff;border-radius:3px;}
+		</style>
+		<script src="./native-by-downloads.js"></script>
+	</head>
+	<body>
+		<div class="order">
+			<h2>sort by：</h2>
+			<p>
+				<span class="tab stars" onclick="updateContent('stars')">stars</span>
+				<span class="tab downloads" onclick="updateContent('downloads')">downloads</span>
+			</p>
+		</div>
+		<div id="components-container">
+		</div>
+<script>
+	var tabDom
+
+	updateContent('downloads')
+
+	function updateContent(sortKey){
+		tabDom && tabDom.classList.remove('selected')
+		tabDom = document.querySelector('.'+sortKey)
+		tabDom.classList.add('selected')
+
+		components = components.sort(function(a, b){return b[sortKey] - a[sortKey]})
+		
+		document.querySelector('#components-container').innerHTML = render(components)
+	}
+	
+	function render(components){
+		return '<div class="list-wrapper">'+
+					'<ul>'+
+					components.map(function(component){
+						return '<li><a target="_blank" href="http://github.com/'+component.githubUser+'/'+component.name+'">'+
+									'<h2>'+component.name+'</h2>'+
+									'<p class="desc">'+component.description+'</p>'+
+									'<p class="platform">'+
+										(component.platforms ? Object.keys(component.platforms).map(function(plt){
+											return '<span>'+plt+'</span>'
+										}).join('') : '')+
+									'</p>'+
+									'<p class="info">stars: '+component.stars+', downloads: '+component.downloads+'</p>'+
+									'<p class="info">latestVersion: v'+component.latestVersion+', publish time: '+component.modified+'</p>'+
+								'</a></li>'
+					}).join('')
+					'</ul>'+
+				'</div>'
+	}
+</script>
+	</body>
+</html>
+

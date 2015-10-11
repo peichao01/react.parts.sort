@@ -1,0 +1,336 @@
+{
+    "initialComponents": [
+        {
+            "downloads": 5407,
+            "description": "React Native Blur component.",
+            "githubUser": "Kureev",
+            "modified": "2015-10-08T17:48:57.465Z",
+            "name": "react-native-blur",
+            "platforms": {
+                "ios": true
+            },
+            "stars": 200,
+            "latestVersion": "0.7.3",
+            "description_encoded": "React Native Blur component.",
+            "objectID": "126513140",
+            "nameHighlight": "react-native-blur",
+            "descriptionHighlight": "React Native Blur component.",
+            "githubUserHighlight": "Kureev"
+        },
+        {
+            "description": "Sophisticated background location-tracking with battery-conscious motion-detection.",
+            "downloads": 563,
+            "latestVersion": "0.0.9",
+            "githubUser": "transistorsoft",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-10-08T17:13:18.333Z",
+            "stars": 73,
+            "name": "react-native-background-geolocation",
+            "description_encoded": "Sophisticated background location-tracking with battery-conscious motion-detection.",
+            "objectID": "126514610",
+            "nameHighlight": "react-native-background-geolocation",
+            "descriptionHighlight": "Sophisticated background location-tracking with battery-conscious motion-detection.",
+            "githubUserHighlight": "transistorsoft"
+        },
+        {
+            "stars": 46,
+            "githubUser": "naoufal",
+            "downloads": 855,
+            "latestVersion": "1.0.3",
+            "name": "react-native-progress-hud",
+            "modified": "2015-10-08T16:50:30.097Z",
+            "description": "A clean and lightweight progress HUD for your React Native app.",
+            "description_encoded": "A clean and lightweight progress HUD for your React Native app.",
+            "objectID": "126513760",
+            "nameHighlight": "react-native-progress-hud",
+            "descriptionHighlight": "A clean and lightweight progress HUD for your React Native app.",
+            "githubUserHighlight": "naoufal"
+        },
+        {
+            "latestVersion": "0.4.1",
+            "modified": "2015-10-08T16:39:45.757Z",
+            "downloads": 610,
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "githubUser": "oblador",
+            "stars": 36,
+            "name": "react-native-collapsible",
+            "description": "Animated collapsible component for React Native using the Animated API. Good for accordions, toggles etc.",
+            "description_encoded": "Animated collapsible component for React Native using the Animated API. Good for accordions, toggles etc.",
+            "objectID": "126513900",
+            "nameHighlight": "react-native-collapsible",
+            "descriptionHighlight": "Animated collapsible component for React Native using the Animated API. Good for accordions, toggles etc.",
+            "githubUserHighlight": "oblador"
+        },
+        {
+            "description": "Images etc in Full Screen Lightbox Popovers for React Native.",
+            "downloads": 281,
+            "latestVersion": "0.4.0",
+            "githubUser": "oblador",
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "modified": "2015-10-08T15:41:06.374Z",
+            "stars": 108,
+            "name": "react-native-lightbox",
+            "description_encoded": "Images etc in Full Screen Lightbox Popovers for React Native.",
+            "objectID": "126514480",
+            "nameHighlight": "react-native-lightbox",
+            "descriptionHighlight": "Images etc in Full Screen Lightbox Popovers for React Native.",
+            "githubUserHighlight": "oblador"
+        },
+        {
+            "downloads": 33,
+            "stars": 2,
+            "description": "A React Native module to play audio on Android.",
+            "latestVersion": "0.0.2",
+            "modified": "2015-10-08T13:50:37.352Z",
+            "platforms": {
+                "android": true
+            },
+            "name": "react-native-audio-player",
+            "githubUser": "sh3rawi",
+            "description_encoded": "A React Native module to play audio on Android.",
+            "objectID": "126515980",
+            "nameHighlight": "react-native-audio-player",
+            "descriptionHighlight": "A React Native module to play audio on Android.",
+            "githubUserHighlight": "sh3rawi"
+        },
+        {
+            "latestVersion": "0.1.3",
+            "modified": "2015-10-08T12:19:20.328Z",
+            "downloads": 231,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "naoufal",
+            "stars": 37,
+            "name": "react-native-safari-view",
+            "description": "A React Native wrapper for Safari View Controller.",
+            "description_encoded": "A React Native wrapper for Safari View Controller.",
+            "objectID": "126514050",
+            "nameHighlight": "react-native-safari-view",
+            "descriptionHighlight": "A React Native wrapper for Safari View Controller.",
+            "githubUserHighlight": "naoufal"
+        },
+        {
+            "downloads": 20,
+            "stars": 2,
+            "description": "A react native android package to control the status bar.",
+            "latestVersion": "0.1.0",
+            "modified": "2015-10-08T12:06:04.808Z",
+            "platforms": {
+                "android": true
+            },
+            "name": "react-native-android-statusbar",
+            "githubUser": "NishanthShankar",
+            "description_encoded": "A react native android package to control the status bar.",
+            "objectID": "126515970",
+            "nameHighlight": "react-native-android-statusbar",
+            "descriptionHighlight": "A react native android package to control the status bar.",
+            "githubUserHighlight": "NishanthShankar"
+        },
+        {
+            "downloads": 76,
+            "stars": 14,
+            "description": "iOS custom sheet with fade in/out overlay.",
+            "latestVersion": "0.0.4",
+            "modified": "2015-10-08T08:33:56.715Z",
+            "name": "react-native-custom-action-sheet",
+            "githubUser": "eyaleizenberg",
+            "description_encoded": "iOS custom sheet with fade in/out overlay.",
+            "objectID": "126515990",
+            "nameHighlight": "react-native-custom-action-sheet",
+            "descriptionHighlight": "iOS custom sheet with fade in/out overlay.",
+            "githubUserHighlight": "eyaleizenberg"
+        },
+        {
+            "downloads": 12,
+            "stars": 0,
+            "description": "Hawk wrapper for react-native.",
+            "latestVersion": "1.0.0",
+            "modified": "2015-10-08T03:55:15.808Z",
+            "platforms": {
+                "ios": true
+            },
+            "name": "react-native-hawk",
+            "githubUser": "andyscott",
+            "description_encoded": "Hawk wrapper for react-native.",
+            "objectID": "126516020",
+            "nameHighlight": "react-native-hawk",
+            "descriptionHighlight": "Hawk wrapper for react-native.",
+            "githubUserHighlight": "andyscott"
+        },
+        {
+            "latestVersion": "0.1.6",
+            "modified": "2015-10-08T03:39:49.790Z",
+            "downloads": 708,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "guodong000",
+            "stars": 9,
+            "name": "react-native-eximage",
+            "description": "A Third Party Image Module.",
+            "description_encoded": "A Third Party Image Module.",
+            "objectID": "126514200",
+            "nameHighlight": "react-native-eximage",
+            "descriptionHighlight": "A Third Party Image Module.",
+            "githubUserHighlight": "guodong000"
+        },
+        {
+            "modified": "2015-10-07T20:46:15.623Z",
+            "downloads": 138,
+            "name": "react-native-globalize",
+            "stars": 8,
+            "latestVersion": "0.1.5",
+            "description": "Globalization helper for React Native.",
+            "githubUser": "joshswan",
+            "description_encoded": "Globalization helper for React Native.",
+            "objectID": "126515690",
+            "nameHighlight": "react-native-globalize",
+            "descriptionHighlight": "Globalization helper for React Native.",
+            "githubUserHighlight": "joshswan"
+        },
+        {
+            "modified": "2015-10-07T17:07:46.003Z",
+            "downloads": 205,
+            "name": "react-native-device-info",
+            "stars": 25,
+            "latestVersion": "0.4.1",
+            "description": "Get device information using react-native.",
+            "githubUser": "rebeccahughes",
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "description_encoded": "Get device information using react-native.",
+            "objectID": "126515530",
+            "nameHighlight": "react-native-device-info",
+            "descriptionHighlight": "Get device information using react-native.",
+            "githubUserHighlight": "rebeccahughes"
+        },
+        {
+            "downloads": 32,
+            "stars": 0,
+            "description": "The 24-column grid component for react-native.",
+            "latestVersion": "0.1.1",
+            "modified": "2015-10-07T15:52:34.630Z",
+            "name": "react-native-grid",
+            "githubUser": "thewei",
+            "description_encoded": "The 24-column grid component for react-native.",
+            "objectID": "126516010",
+            "nameHighlight": "react-native-grid",
+            "descriptionHighlight": "The 24-column grid component for react-native.",
+            "githubUserHighlight": "thewei"
+        },
+        {
+            "modified": "2015-10-07T14:58:20.684Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "0.0.4",
+            "name": "react-native-radio-button-classic",
+            "downloads": 161,
+            "githubUser": "pressly",
+            "description": "Bring Classic Radio to React-Native.",
+            "stars": 7,
+            "description_encoded": "Bring Classic Radio to React-Native.",
+            "objectID": "126515120",
+            "nameHighlight": "react-native-radio-button-classic",
+            "descriptionHighlight": "Bring Classic Radio to React-Native.",
+            "githubUserHighlight": "pressly"
+        },
+        {
+            "name": "react-native-card-io",
+            "githubUser": "kayla-tech",
+            "description": "React Native component for card.io.",
+            "stars": 2,
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "latestVersion": "1.0.2",
+            "downloads": 40,
+            "modified": "2015-10-07T04:52:58.329Z",
+            "description_encoded": "React Native component for card.io.",
+            "objectID": "126515920",
+            "nameHighlight": "react-native-card-io",
+            "descriptionHighlight": "React Native component for card.io.",
+            "githubUserHighlight": "kayla-tech"
+        },
+        {
+            "githubUser": "kayla-tech",
+            "description": "Obscure passwords and other sensitive personal information when a react-native app transitions to the background.",
+            "name": "react-native-privacy-snapshot",
+            "latestVersion": "1.0.0",
+            "downloads": 15,
+            "modified": "2015-10-07T04:29:45.840Z",
+            "githubName": "react-native-privacy-snapshotx",
+            "stars": 4,
+            "description_encoded": "Obscure passwords and other sensitive personal information when a react-native app transitions to the background.",
+            "objectID": "126515960",
+            "nameHighlight": "react-native-privacy-snapshot",
+            "descriptionHighlight": "Obscure passwords and other sensitive personal information when a react-native app transitions to the background.",
+            "githubUserHighlight": "kayla-tech"
+        },
+        {
+            "modified": "2015-10-06T15:03:08.229Z",
+            "name": "react-native-tabs",
+            "latestVersion": "0.0.8",
+            "downloads": 317,
+            "description": "React Native platform-independent tabs. Could be used for bottom tab bars as well as sectioned views (with tab buttons).",
+            "stars": 6,
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "githubUser": "aksonov",
+            "description_encoded": "React Native platform-independent tabs. Could be used for bottom tab bars as well as sectioned views (with tab buttons).",
+            "objectID": "126515760",
+            "nameHighlight": "react-native-tabs",
+            "descriptionHighlight": "React Native platform-independent tabs. Could be used for bottom tab bars as well as sectioned views (with tab buttons).",
+            "githubUserHighlight": "aksonov"
+        },
+        {
+            "downloads": 7167,
+            "description": "Use 1000&#39;s of icon fonts in your React Native app including the tab bar.",
+            "githubUser": "corymsmith",
+            "modified": "2015-10-06T14:57:05.717Z",
+            "name": "react-native-icons",
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "stars": 583,
+            "latestVersion": "0.5.1",
+            "description_encoded": "Use 1000&#38;#39;s of icon fonts in your React Native app including the tab bar.",
+            "objectID": "126512960",
+            "nameHighlight": "react-native-icons",
+            "descriptionHighlight": "Use 1000&#39;s of icon fonts in your React Native app including the tab bar.",
+            "githubUserHighlight": "corymsmith"
+        },
+        {
+            "stars": 1,
+            "githubUser": "thewei",
+            "description": "You can use react-native-css-loader width react-native-webpack-server, which can use webpack to built react-native app better.",
+            "name": "react-native-css-loader",
+            "latestVersion": "1.0.0",
+            "downloads": 17,
+            "modified": "2015-10-06T13:47:54.890Z",
+            "description_encoded": "You can use react-native-css-loader width react-native-webpack-server, which can use webpack to built react-native app better.",
+            "objectID": "126515950",
+            "nameHighlight": "react-native-css-loader",
+            "descriptionHighlight": "You can use react-native-css-loader width react-native-webpack-server, which can use webpack to built react-native app better.",
+            "githubUserHighlight": "thewei"
+        }
+    ],
+    "initialCount": 324,
+    "perPage": 20,
+    "debugMode": false
+}

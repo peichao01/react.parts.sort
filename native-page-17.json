@@ -1,0 +1,70 @@
+{
+    "initialComponents": [
+        {
+            "downloads": 344,
+            "description": "A comprehensive collection of React Native components.",
+            "githubUser": "react-uikit",
+            "modified": "2015-04-06T08:57:06.093Z",
+            "name": "react-uikit",
+            "platforms": {
+                "ios": true
+            },
+            "stars": 52,
+            "latestVersion": "0.1.1",
+            "description_encoded": "A comprehensive collection of React Native components.",
+            "objectID": "126512880",
+            "nameHighlight": "react-uikit",
+            "descriptionHighlight": "A comprehensive collection of React Native components.",
+            "githubUserHighlight": "react-uikit"
+        },
+        {
+            "downloads": 1339,
+            "description": "A utility component to allow easy access to browser native events.",
+            "githubUser": "erikras",
+            "modified": "2015-04-04T13:19:46.574Z",
+            "name": "react-native-listener",
+            "stars": 16,
+            "latestVersion": "0.0.6",
+            "description_encoded": "A utility component to allow easy access to browser native events.",
+            "objectID": "126512980",
+            "nameHighlight": "react-native-listener",
+            "descriptionHighlight": "A utility component to allow easy access to browser native events.",
+            "githubUserHighlight": "erikras"
+        },
+        {
+            "name": "react-native-nested-stylesheet",
+            "githubUser": "pjjanak",
+            "githubName": "react-native-nested-stylesheets",
+            "description": "Nestable stylesheets for react-native.",
+            "modified": "2015-04-04T00:16:14.045Z",
+            "stars": 24,
+            "downloads": 648,
+            "latestVersion": "0.0.8",
+            "description_encoded": "Nestable stylesheets for react-native.",
+            "objectID": "126513030",
+            "nameHighlight": "react-native-nested-stylesheet",
+            "descriptionHighlight": "Nestable stylesheets for react-native.",
+            "githubUserHighlight": "pjjanak"
+        },
+        {
+            "downloads": 288,
+            "description": "Use HTML like markup to create stylized text in react-native.",
+            "githubUser": "siuying",
+            "modified": "2015-03-31T16:54:50.830Z",
+            "name": "react-native-htmltext",
+            "platforms": {
+                "ios": true
+            },
+            "stars": 23,
+            "latestVersion": "0.1.2",
+            "description_encoded": "Use HTML like markup to create stylized text in react-native.",
+            "objectID": "126512930",
+            "nameHighlight": "react-native-htmltext",
+            "descriptionHighlight": "Use HTML like markup to create stylized text in react-native.",
+            "githubUserHighlight": "siuying"
+        }
+    ],
+    "initialCount": 324,
+    "perPage": 20,
+    "debugMode": false
+}

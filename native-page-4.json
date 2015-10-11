@@ -1,0 +1,332 @@
+{
+    "initialComponents": [
+        {
+            "downloads": 6538,
+            "description": "Simple customizable component to create side menu.",
+            "githubUser": "Kureev",
+            "modified": "2015-10-01T13:41:42.199Z",
+            "name": "react-native-side-menu",
+            "stars": 247,
+            "latestVersion": "0.14.2",
+            "description_encoded": "Simple customizable component to create side menu.",
+            "objectID": "126513050",
+            "nameHighlight": "react-native-side-menu",
+            "descriptionHighlight": "Simple customizable component to create side menu.",
+            "githubUserHighlight": "Kureev"
+        },
+        {
+            "stars": 49,
+            "githubUser": "johanneslumpe",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 921,
+            "latestVersion": "0.4.0",
+            "name": "react-native-fs",
+            "modified": "2015-10-01T12:57:56.690Z",
+            "description": "Native filesystem access for react-native.",
+            "description_encoded": "Native filesystem access for react-native.",
+            "objectID": "126513500",
+            "nameHighlight": "react-native-fs",
+            "descriptionHighlight": "Native filesystem access for react-native.",
+            "githubUserHighlight": "johanneslumpe"
+        },
+        {
+            "modified": "2015-10-01T12:46:52.652Z",
+            "name": "react-native-xkcd",
+            "githubUser": "hemanth",
+            "downloads": 22,
+            "stars": 7,
+            "description": "Loads a random XKCD comic with caption.",
+            "latestVersion": "0.0.1",
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "description_encoded": "Loads a random XKCD comic with caption.",
+            "objectID": "126515860",
+            "nameHighlight": "react-native-xkcd",
+            "descriptionHighlight": "Loads a random XKCD comic with caption.",
+            "githubUserHighlight": "hemanth"
+        },
+        {
+            "modified": "2015-10-01T00:42:36.949Z",
+            "latestVersion": "0.2.7",
+            "name": "react-native-tab-navigator",
+            "downloads": 279,
+            "githubUser": "exponentjs",
+            "description": "A tab bar that switches between scenes, written in JS for cross-platform support.",
+            "stars": 34,
+            "description_encoded": "A tab bar that switches between scenes, written in JS for cross-platform support.",
+            "objectID": "126515170",
+            "nameHighlight": "react-native-tab-navigator",
+            "descriptionHighlight": "A tab bar that switches between scenes, written in JS for cross-platform support.",
+            "githubUserHighlight": "exponentjs"
+        },
+        {
+            "githubUser": "EstebanFuentealba",
+            "stars": 9,
+            "name": "react-native-share",
+            "modified": "2015-09-30T21:58:55.676Z",
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "downloads": 102,
+            "description": "Social Share, Sending Simple Data to Other Apps.",
+            "latestVersion": "1.0.2",
+            "description_encoded": "Social Share, Sending Simple Data to Other Apps.",
+            "objectID": "126515800",
+            "nameHighlight": "react-native-share",
+            "descriptionHighlight": "Social Share, Sending Simple Data to Other Apps.",
+            "githubUserHighlight": "EstebanFuentealba"
+        },
+        {
+            "stars": 28,
+            "githubUser": "anarchicknight",
+            "downloads": 706,
+            "latestVersion": "0.0.6",
+            "name": "react-native-communications",
+            "modified": "2015-09-30T21:54:10.476Z",
+            "description": "Easily call, email, text or iMessage someone in React Native.",
+            "description_encoded": "Easily call, email, text or iMessage someone in React Native.",
+            "objectID": "126513470",
+            "nameHighlight": "react-native-communications",
+            "descriptionHighlight": "Easily call, email, text or iMessage someone in React Native.",
+            "githubUserHighlight": "anarchicknight"
+        },
+        {
+            "stars": 44,
+            "githubUser": "chirag04",
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "downloads": 525,
+            "latestVersion": "0.2.3",
+            "name": "react-native-mail",
+            "modified": "2015-09-30T20:38:09.627Z",
+            "description": "A wrapper on top of MFMailComposeViewController from iOS and Mail Intent on android.",
+            "description_encoded": "A wrapper on top of MFMailComposeViewController from iOS and Mail Intent on android.",
+            "objectID": "126513640",
+            "nameHighlight": "react-native-mail",
+            "descriptionHighlight": "A wrapper on top of MFMailComposeViewController from iOS and Mail Intent on android.",
+            "githubUserHighlight": "chirag04"
+        },
+        {
+            "name": "react-native-card.io",
+            "githubUser": "BBB",
+            "githubName": "card.io-react-native",
+            "description": "A Card.io component for react-native.",
+            "modified": "2015-09-30T17:45:52.992Z",
+            "stars": 12,
+            "downloads": 150,
+            "latestVersion": "0.1.3",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "A Card.io component for react-native.",
+            "objectID": "126515810",
+            "nameHighlight": "react-native-card.io",
+            "descriptionHighlight": "A Card.io component for react-native.",
+            "githubUserHighlight": "BBB"
+        },
+        {
+            "name": "react-native-realtimemessaging-ios",
+            "githubUser": "realtime-framework",
+            "githubName": "RCTRealtimeMessaging",
+            "description": "The Realtime Framework Cloud Messaging Pub/Sub client for React-Native.",
+            "modified": "2015-09-30T15:27:38.189Z",
+            "stars": 7,
+            "downloads": 387,
+            "latestVersion": "1.0.10",
+            "description_encoded": "The Realtime Framework Cloud Messaging Pub/Sub client for React-Native.",
+            "objectID": "126513400",
+            "nameHighlight": "react-native-realtimemessaging-ios",
+            "descriptionHighlight": "The Realtime Framework Cloud Messaging Pub/Sub client for React-Native.",
+            "githubUserHighlight": "realtime-framework"
+        },
+        {
+            "name": "react-native-realtimestorage-android",
+            "githubUser": "realtime-framework",
+            "githubName": "RCTRealtimeStorageAndroid",
+            "description": "The Realtime Cloud Storage client for React-Native Android.",
+            "modified": "2015-09-30T10:14:53.143Z",
+            "stars": 0,
+            "downloads": 21,
+            "latestVersion": "1.0.1",
+            "platforms": {
+                "android": true
+            },
+            "description_encoded": "The Realtime Cloud Storage client for React-Native Android.",
+            "objectID": "126515790",
+            "nameHighlight": "react-native-realtimestorage-android",
+            "descriptionHighlight": "The Realtime Cloud Storage client for React-Native Android.",
+            "githubUserHighlight": "realtime-framework"
+        },
+        {
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "name": "react-native-android-audio-streaming-aac",
+            "description": "A react native streaming player.",
+            "downloads": 184,
+            "stars": 0,
+            "githubUser": "EstebanFuentealba",
+            "modified": "2015-09-30T02:15:41.265Z",
+            "latestVersion": "0.0.8",
+            "description_encoded": "A react native streaming player.",
+            "objectID": "126515700",
+            "nameHighlight": "react-native-android-audio-streaming-aac",
+            "descriptionHighlight": "A react native streaming player.",
+            "githubUserHighlight": "EstebanFuentealba"
+        },
+        {
+            "description": "Update and manage your React Native javascript bundle versions.",
+            "downloads": 383,
+            "latestVersion": "1.0.1",
+            "githubUser": "reployapp",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-09-29T21:21:16.228Z",
+            "stars": 36,
+            "name": "react-native-versions",
+            "description_encoded": "Update and manage your React Native javascript bundle versions.",
+            "objectID": "126514660",
+            "nameHighlight": "react-native-versions",
+            "descriptionHighlight": "Update and manage your React Native javascript bundle versions.",
+            "githubUserHighlight": "reployapp"
+        },
+        {
+            "modified": "2015-09-28T13:04:37.481Z",
+            "name": "react-native-webrtc",
+            "latestVersion": "0.0.2",
+            "downloads": 51,
+            "description": "WebRTC for React Native.",
+            "stars": 5,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "oney",
+            "description_encoded": "WebRTC for React Native.",
+            "objectID": "126515770",
+            "nameHighlight": "react-native-webrtc",
+            "descriptionHighlight": "WebRTC for React Native.",
+            "githubUserHighlight": "oney"
+        },
+        {
+            "downloads": 560,
+            "description": "Looped carousel for React Native.",
+            "githubUser": "appintheair",
+            "modified": "2015-09-28T11:36:23.282Z",
+            "name": "react-native-looped-carousel",
+            "stars": 127,
+            "latestVersion": "0.0.4",
+            "description_encoded": "Looped carousel for React Native.",
+            "objectID": "126512990",
+            "nameHighlight": "react-native-looped-carousel",
+            "descriptionHighlight": "Looped carousel for React Native.",
+            "githubUserHighlight": "appintheair"
+        },
+        {
+            "latestVersion": "0.2.1",
+            "modified": "2015-09-28T07:08:07.287Z",
+            "downloads": 504,
+            "githubUser": "superdami",
+            "stars": 60,
+            "name": "react-native-custom-navigation",
+            "description": "A navigation that allow to custom the appearance of navigation bar in your app.",
+            "description_encoded": "A navigation that allow to custom the appearance of navigation bar in your app.",
+            "objectID": "126514330",
+            "nameHighlight": "react-native-custom-navigation",
+            "descriptionHighlight": "A navigation that allow to custom the appearance of navigation bar in your app.",
+            "githubUserHighlight": "superdami"
+        },
+        {
+            "platforms": {
+                "android": true
+            },
+            "name": "react-native-android-iconify",
+            "description": "icons for react native android using android-iconify.",
+            "downloads": 52,
+            "stars": 13,
+            "githubUser": "lwhiteley",
+            "modified": "2015-09-28T03:59:10.715Z",
+            "latestVersion": "1.0.1",
+            "description_encoded": "icons for react native android using android-iconify.",
+            "objectID": "126515710",
+            "nameHighlight": "react-native-android-iconify",
+            "descriptionHighlight": "icons for react native android using android-iconify.",
+            "githubUserHighlight": "lwhiteley"
+        },
+        {
+            "name": "rn-websocket-stream",
+            "description": "Use websockets with the node streams API. Works in react-native, browser and node.",
+            "downloads": 36,
+            "stars": 0,
+            "githubUser": "jacobbubu",
+            "modified": "2015-09-28T03:46:47.640Z",
+            "latestVersion": "2.0.3",
+            "description_encoded": "Use websockets with the node streams API. Works in react-native, browser and node.",
+            "objectID": "126515740",
+            "nameHighlight": "rn-websocket-stream",
+            "descriptionHighlight": "Use websockets with the node streams API. Works in react-native, browser and node.",
+            "githubUserHighlight": "jacobbubu"
+        },
+        {
+            "name": "react-native-localization",
+            "githubUser": "stefalda",
+            "githubName": "ReactNativeLocalization",
+            "description": "Simple module to localize the ReactNative interface.",
+            "modified": "2015-09-27T18:30:02.441Z",
+            "stars": 54,
+            "downloads": 590,
+            "latestVersion": "0.1.10",
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "description_encoded": "Simple module to localize the ReactNative interface.",
+            "objectID": "126513160",
+            "nameHighlight": "react-native-localization",
+            "descriptionHighlight": "Simple module to localize the ReactNative interface.",
+            "githubUserHighlight": "stefalda"
+        },
+        {
+            "latestVersion": "0.4.0",
+            "modified": "2015-09-27T17:47:45.135Z",
+            "downloads": 393,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "paramaggarwal",
+            "stars": 49,
+            "name": "react-native-youtube",
+            "description": "A &#60;YouTube/&#62; component for React Native.",
+            "description_encoded": "A &#38;#60;YouTube/&#38;#62; component for React Native.",
+            "objectID": "126514100",
+            "nameHighlight": "react-native-youtube",
+            "descriptionHighlight": "A &#60;YouTube/&#62; component for React Native.",
+            "githubUserHighlight": "paramaggarwal"
+        },
+        {
+            "downloads": 1137,
+            "description": "React Native Grid/Collection View component.",
+            "githubUser": "lucholaf",
+            "modified": "2015-09-27T03:26:54.600Z",
+            "name": "react-native-grid-view",
+            "stars": 50,
+            "latestVersion": "0.3.7",
+            "description_encoded": "React Native Grid/Collection View component.",
+            "objectID": "126513150",
+            "nameHighlight": "react-native-grid-view",
+            "descriptionHighlight": "React Native Grid/Collection View component.",
+            "githubUserHighlight": "lucholaf"
+        }
+    ],
+    "initialCount": 324,
+    "perPage": 20,
+    "debugMode": false
+}

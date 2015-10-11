@@ -1,0 +1,331 @@
+{
+    "initialComponents": [
+        {
+            "modified": "2015-10-06T12:35:14.542Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "1.2.1",
+            "name": "react-native-item-cell",
+            "downloads": 119,
+            "githubUser": "APSL",
+            "description": "React Native default style iOS item cell.",
+            "stars": 4,
+            "description_encoded": "React Native default style iOS item cell.",
+            "objectID": "126515350",
+            "nameHighlight": "react-native-item-cell",
+            "descriptionHighlight": "React Native default style iOS item cell.",
+            "githubUserHighlight": "APSL"
+        },
+        {
+            "modified": "2015-10-05T14:57:17.797Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "1.3.3",
+            "name": "react-native-tableview",
+            "downloads": 1066,
+            "githubUser": "aksonov",
+            "description": "Native iOS TableView wrapper for React Native.",
+            "stars": 97,
+            "description_encoded": "Native iOS TableView wrapper for React Native.",
+            "objectID": "126514980",
+            "nameHighlight": "react-native-tableview",
+            "descriptionHighlight": "Native iOS TableView wrapper for React Native.",
+            "githubUserHighlight": "aksonov"
+        },
+        {
+            "downloads": 2139,
+            "description": "CSS style your React Components.",
+            "githubUser": "sabeurthabti",
+            "modified": "2015-10-05T12:11:37.727Z",
+            "name": "react-native-css",
+            "stars": 78,
+            "latestVersion": "1.2.18",
+            "description_encoded": "CSS style your React Components.",
+            "objectID": "126513290",
+            "nameHighlight": "react-native-css",
+            "descriptionHighlight": "CSS style your React Components.",
+            "githubUserHighlight": "sabeurthabti"
+        },
+        {
+            "modified": "2015-10-05T09:13:27.244Z",
+            "name": "react-native-checkbox",
+            "latestVersion": "1.0.3",
+            "downloads": 117,
+            "description": "Checkbox component for React native.",
+            "stars": 1,
+            "githubUser": "sconxu",
+            "description_encoded": "Checkbox component for React native.",
+            "objectID": "126515750",
+            "nameHighlight": "react-native-checkbox",
+            "descriptionHighlight": "Checkbox component for React native.",
+            "githubUserHighlight": "sconxu"
+        },
+        {
+            "name": "react-native-i18n-complete",
+            "githubUser": "mrKlar",
+            "githubName": "react-native-i18n",
+            "description": "React Native and I18n.js integration.",
+            "modified": "2015-10-04T20:04:27.169Z",
+            "stars": 2,
+            "downloads": 257,
+            "latestVersion": "0.1.2",
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "description_encoded": "React Native and I18n.js integration.",
+            "objectID": "126515910",
+            "nameHighlight": "react-native-i18n-complete",
+            "descriptionHighlight": "React Native and I18n.js integration.",
+            "githubUserHighlight": "mrKlar"
+        },
+        {
+            "description": "Glue NetInfo from react-native to Redux.",
+            "downloads": 118,
+            "latestVersion": "0.0.4",
+            "githubUser": "michaelcontento",
+            "modified": "2015-10-04T12:48:18.608Z",
+            "stars": 0,
+            "name": "redux-middleware-react-native-netinfo",
+            "description_encoded": "Glue NetInfo from react-native to Redux.",
+            "objectID": "126514700",
+            "nameHighlight": "redux-middleware-react-native-netinfo",
+            "descriptionHighlight": "Glue NetInfo from react-native to Redux.",
+            "githubUserHighlight": "michaelcontento"
+        },
+        {
+            "description": "Glue AppState from react-native to Redux.",
+            "downloads": 113,
+            "latestVersion": "0.0.4",
+            "githubUser": "michaelcontento",
+            "modified": "2015-10-04T12:47:48.286Z",
+            "stars": 12,
+            "name": "redux-middleware-react-native-appstate",
+            "description_encoded": "Glue AppState from react-native to Redux.",
+            "objectID": "126514690",
+            "nameHighlight": "redux-middleware-react-native-appstate",
+            "descriptionHighlight": "Glue AppState from react-native to Redux.",
+            "githubUserHighlight": "michaelcontento"
+        },
+        {
+            "githubUser": "nucleartux",
+            "stars": 7,
+            "name": "react-native-circle-view",
+            "modified": "2015-10-04T09:20:34.304Z",
+            "platforms": {
+                "android": true
+            },
+            "downloads": 98,
+            "description": "circle progress for react native android using CircleView.",
+            "latestVersion": "1.0.4",
+            "description_encoded": "circle progress for react native android using CircleView.",
+            "objectID": "126515780",
+            "nameHighlight": "react-native-circle-view",
+            "descriptionHighlight": "circle progress for react native android using CircleView.",
+            "githubUserHighlight": "nucleartux"
+        },
+        {
+            "name": "react-stateful-stream",
+            "description": "Stateful bliss. Re-examining modular state.",
+            "downloads": 204,
+            "stars": 2,
+            "githubUser": "gilbox",
+            "modified": "2015-10-04T05:36:32.425Z",
+            "latestVersion": "0.2.2",
+            "description_encoded": "Stateful bliss. Re-examining modular state.",
+            "objectID": "126515730",
+            "nameHighlight": "react-stateful-stream",
+            "descriptionHighlight": "Stateful bliss. Re-examining modular state.",
+            "githubUserHighlight": "gilbox"
+        },
+        {
+            "modified": "2015-10-03T21:20:04.224Z",
+            "downloads": 134,
+            "name": "react-native-ble",
+            "stars": 13,
+            "latestVersion": "0.0.5",
+            "description": "Central role BLE for react native noble api surface.",
+            "githubUser": "jacobrosenthal",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "Central role BLE for react native noble api surface.",
+            "objectID": "126515510",
+            "nameHighlight": "react-native-ble",
+            "descriptionHighlight": "Central role BLE for react native noble api surface.",
+            "githubUserHighlight": "jacobrosenthal"
+        },
+        {
+            "stars": 221,
+            "githubUser": "oblador",
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "downloads": 4073,
+            "latestVersion": "0.7.2",
+            "name": "react-native-vector-icons",
+            "modified": "2015-10-03T21:02:03.121Z",
+            "description": "Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.",
+            "description_encoded": "Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.",
+            "objectID": "126513690",
+            "nameHighlight": "react-native-vector-icons",
+            "descriptionHighlight": "Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.",
+            "githubUserHighlight": "oblador"
+        },
+        {
+            "modified": "2015-10-03T15:50:30.943Z",
+            "downloads": 348,
+            "name": "react-native-navigator",
+            "stars": 16,
+            "latestVersion": "0.4.2",
+            "description": "A simple router for react native.",
+            "githubUser": "thewei",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "A simple router for react native.",
+            "objectID": "126515460",
+            "nameHighlight": "react-native-navigator",
+            "descriptionHighlight": "A simple router for react native.",
+            "githubUserHighlight": "thewei"
+        },
+        {
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "peachmeco",
+            "stars": 4,
+            "description": "Detect the specifications of a device in react-native. Not yet implemented for Android.",
+            "latestVersion": "0.0.1",
+            "modified": "2015-10-02T19:28:02.881Z",
+            "downloads": 27,
+            "name": "react-native-device-specs",
+            "description_encoded": "Detect the specifications of a device in react-native. Not yet implemented for Android.",
+            "objectID": "126515890",
+            "nameHighlight": "react-native-device-specs",
+            "descriptionHighlight": "Detect the specifications of a device in react-native. Not yet implemented for Android.",
+            "githubUserHighlight": "peachmeco"
+        },
+        {
+            "name": "rn-nodeify",
+            "description": "Run after npm install and you can use node core modules in your React Native app.",
+            "stars": 4,
+            "githubUser": "mvayngrib",
+            "modified": "2015-10-01T19:58:58.386Z",
+            "latestVersion": "1.4.0",
+            "downloads": 363,
+            "description_encoded": "Run after npm install and you can use node core modules in your React Native app.",
+            "objectID": "126515870",
+            "nameHighlight": "rn-nodeify",
+            "descriptionHighlight": "Run after npm install and you can use node core modules in your React Native app.",
+            "githubUserHighlight": "mvayngrib"
+        },
+        {
+            "stars": 27,
+            "githubUser": "timfpark",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 320,
+            "latestVersion": "0.11.4",
+            "name": "react-native-location",
+            "modified": "2015-10-01T18:08:38.348Z",
+            "description": "Native GPS location support for React Native.",
+            "description_encoded": "Native GPS location support for React Native.",
+            "objectID": "126513860",
+            "nameHighlight": "react-native-location",
+            "descriptionHighlight": "Native GPS location support for React Native.",
+            "githubUserHighlight": "timfpark"
+        },
+        {
+            "githubUser": "DenisIzmaylov",
+            "stars": 3,
+            "description": "Customized redbox (rsod) component to display your errors.",
+            "latestVersion": "1.0.2",
+            "modified": "2015-10-01T17:24:17.012Z",
+            "downloads": 71,
+            "name": "pinkbox-react",
+            "description_encoded": "Customized redbox (rsod) component to display your errors.",
+            "objectID": "126515880",
+            "nameHighlight": "pinkbox-react",
+            "descriptionHighlight": "Customized redbox (rsod) component to display your errors.",
+            "githubUserHighlight": "DenisIzmaylov"
+        },
+        {
+            "downloads": 3816,
+            "description": "A &#60;LinearGradient&#62; element for react-native.",
+            "githubUser": "brentvatne",
+            "modified": "2015-10-01T16:53:36.956Z",
+            "name": "react-native-linear-gradient",
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "stars": 94,
+            "latestVersion": "1.1.0-alpha",
+            "description_encoded": "A &#38;#60;LinearGradient&#38;#62; element for react-native.",
+            "objectID": "126512970",
+            "nameHighlight": "react-native-linear-gradient",
+            "descriptionHighlight": "A &#60;LinearGradient&#62; element for react-native.",
+            "githubUserHighlight": "brentvatne"
+        },
+        {
+            "stars": 8,
+            "githubUser": "chirag04",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 978,
+            "latestVersion": "2.1.0",
+            "name": "react-native-dashed-border",
+            "modified": "2015-10-01T15:53:11.654Z",
+            "description": "A &#60;DashedBorder&#62; element for react-native.",
+            "description_encoded": "A &#38;#60;DashedBorder&#38;#62; element for react-native.",
+            "objectID": "126513450",
+            "nameHighlight": "react-native-dashed-border",
+            "descriptionHighlight": "A &#60;DashedBorder&#62; element for react-native.",
+            "githubUserHighlight": "chirag04"
+        },
+        {
+            "name": "react-native-dropdown-android",
+            "githubUser": "chymtt",
+            "githubName": "ReactNativeDropdownAndroid",
+            "description": "Simple wrapper for Android&#39;s Spinner to use with react-native.",
+            "modified": "2015-10-01T15:08:56.466Z",
+            "stars": 8,
+            "downloads": 72,
+            "latestVersion": "0.0.3",
+            "platforms": {
+                "android": true
+            },
+            "description_encoded": "Simple wrapper for Android&#38;#39;s Spinner to use with react-native.",
+            "objectID": "126515850",
+            "nameHighlight": "react-native-dropdown-android",
+            "descriptionHighlight": "Simple wrapper for Android&#39;s Spinner to use with react-native.",
+            "githubUserHighlight": "chymtt"
+        },
+        {
+            "modified": "2015-10-01T14:25:36.552Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "0.0.20",
+            "name": "react-native-svg-elements",
+            "downloads": 818,
+            "githubUser": "aksonov",
+            "description": "ReactNative SVG elements using SVGgh library.",
+            "stars": 13,
+            "description_encoded": "ReactNative SVG elements using SVGgh library.",
+            "objectID": "126514960",
+            "nameHighlight": "react-native-svg-elements",
+            "descriptionHighlight": "ReactNative SVG elements using SVGgh library.",
+            "githubUserHighlight": "aksonov"
+        }
+    ],
+    "initialCount": 324,
+    "perPage": 20,
+    "debugMode": false
+}

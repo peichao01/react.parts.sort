@@ -1,0 +1,322 @@
+{
+    "initialComponents": [
+        {
+            "modified": "2015-09-16T23:51:34.204Z",
+            "downloads": 173,
+            "name": "gb-native-router",
+            "stars": 18,
+            "latestVersion": "0.4.3",
+            "description": "Easy to use Navigator for your native app.",
+            "githubUser": "MikaelCarpenter",
+            "description_encoded": "Easy to use Navigator for your native app.",
+            "objectID": "126515420",
+            "nameHighlight": "gb-native-router",
+            "descriptionHighlight": "Easy to use Navigator for your native app.",
+            "githubUserHighlight": "MikaelCarpenter"
+        },
+        {
+            "downloads": 5995,
+            "description": "A &#60;Video /&#62; element for react-native.",
+            "githubUser": "brentvatne",
+            "modified": "2015-09-16T22:38:39.180Z",
+            "name": "react-native-video",
+            "platforms": {
+                "ios": true
+            },
+            "stars": 238,
+            "latestVersion": "0.6.1",
+            "description_encoded": "A &#38;#60;Video /&#38;#62; element for react-native.",
+            "objectID": "126513080",
+            "nameHighlight": "react-native-video",
+            "descriptionHighlight": "A &#60;Video /&#62; element for react-native.",
+            "githubUserHighlight": "brentvatne"
+        },
+        {
+            "modified": "2015-09-16T20:32:23.287Z",
+            "downloads": 492,
+            "name": "react-native-battery",
+            "stars": 2,
+            "latestVersion": "0.1.11",
+            "description": "A React Native module that returns the battery level/status of a device.",
+            "githubUser": "oojr",
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "description_encoded": "A React Native module that returns the battery level/status of a device.",
+            "objectID": "126515500",
+            "nameHighlight": "react-native-battery",
+            "descriptionHighlight": "A React Native module that returns the battery level/status of a device.",
+            "githubUserHighlight": "oojr"
+        },
+        {
+            "name": "rn-calendar",
+            "githubUser": "vczero",
+            "githubName": "react-native-calendar",
+            "description": "A calendar component for React Native.",
+            "modified": "2015-09-16T15:42:03.829Z",
+            "stars": 10,
+            "downloads": 145,
+            "latestVersion": "0.0.4",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "A calendar component for React Native.",
+            "objectID": "126514380",
+            "nameHighlight": "rn-calendar",
+            "descriptionHighlight": "A calendar component for React Native.",
+            "githubUserHighlight": "vczero"
+        },
+        {
+            "modified": "2015-09-16T15:25:51.077Z",
+            "downloads": 32,
+            "name": "react-native-tab",
+            "stars": 4,
+            "latestVersion": "1.0.0",
+            "description": "react-native-tab is a simple module for add a &#34;Tab Menu&#34; to your React Native app.",
+            "githubUser": "vczero",
+            "description_encoded": "react-native-tab is a simple module for add a &#38;#34;Tab Menu&#38;#34; to your React Native app.",
+            "objectID": "126515550",
+            "nameHighlight": "react-native-tab",
+            "descriptionHighlight": "react-native-tab is a simple module for add a &#34;Tab Menu&#34; to your React Native app.",
+            "githubUserHighlight": "vczero"
+        },
+        {
+            "name": "react-native-drawer-addmenu",
+            "githubUser": "rt2zz",
+            "githubName": "react-native-drawer",
+            "description": "React Native Drawer.",
+            "modified": "2015-09-16T08:23:17.794Z",
+            "stars": 132,
+            "downloads": 66,
+            "latestVersion": "1.2.7",
+            "description_encoded": "React Native Drawer.",
+            "objectID": "126515200",
+            "nameHighlight": "react-native-drawer-addmenu",
+            "descriptionHighlight": "React Native Drawer.",
+            "githubUserHighlight": "rt2zz"
+        },
+        {
+            "modified": "2015-09-16T07:40:48.237Z",
+            "latestVersion": "0.1.5",
+            "name": "react-native-for-web",
+            "downloads": 236,
+            "githubUser": "KodersLab",
+            "description": "A set of classes and react components to make work your react-native app in a browser. (with some limitations obviously).",
+            "stars": 55,
+            "description_encoded": "A set of classes and react components to make work your react-native app in a browser. (with some limitations obviously).",
+            "objectID": "126515320",
+            "nameHighlight": "react-native-for-web",
+            "descriptionHighlight": "A set of classes and react components to make work your react-native app in a browser. (with some limitations obviously).",
+            "githubUserHighlight": "KodersLab"
+        },
+        {
+            "modified": "2015-09-16T01:00:53.305Z",
+            "downloads": 88,
+            "name": "react-native-ios-network-audio",
+            "stars": 2,
+            "latestVersion": "0.0.3",
+            "description": "Audio player implementation for web-based url audio clips using ios standards.",
+            "githubUser": "pwbrown",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "Audio player implementation for web-based url audio clips using ios standards.",
+            "objectID": "126515520",
+            "nameHighlight": "react-native-ios-network-audio",
+            "descriptionHighlight": "Audio player implementation for web-based url audio clips using ios standards.",
+            "githubUserHighlight": "pwbrown"
+        },
+        {
+            "modified": "2015-09-15T19:09:30.332Z",
+            "downloads": 185,
+            "name": "react-native-multi-slider",
+            "stars": 9,
+            "latestVersion": "0.2.1",
+            "description": "Pure JS slider component with multiple markers for React Native.",
+            "githubUser": "JackDanielsAndCode",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "Pure JS slider component with multiple markers for React Native.",
+            "objectID": "126515450",
+            "nameHighlight": "react-native-multi-slider",
+            "descriptionHighlight": "Pure JS slider component with multiple markers for React Native.",
+            "githubUserHighlight": "JackDanielsAndCode"
+        },
+        {
+            "description": "Slider button inspired by the slide to unlock widget with an optional animation manipulating the text&#39;s transparency. Of course, both the animation duration and text can be customized too.",
+            "downloads": 188,
+            "latestVersion": "0.0.4",
+            "githubUser": "agentS",
+            "modified": "2015-09-14T06:30:06.488Z",
+            "stars": 2,
+            "name": "react-native-slider-button",
+            "description_encoded": "Slider button inspired by the slide to unlock widget with an optional animation manipulating the text&#38;#39;s transparency. Of course, both the animation duration and text can be customized too.",
+            "objectID": "126514720",
+            "nameHighlight": "react-native-slider-button",
+            "descriptionHighlight": "Slider button inspired by the slide to unlock widget with an optional animation manipulating the text&#39;s transparency. Of course, both the animation duration and text can be customized too.",
+            "githubUserHighlight": "agentS"
+        },
+        {
+            "latestVersion": "0.0.6",
+            "modified": "2015-09-14T00:32:51.616Z",
+            "downloads": 392,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "maxs15",
+            "stars": 36,
+            "name": "react-native-screcorder",
+            "description": "A Video recorder component for react-native.",
+            "description_encoded": "A Video recorder component for react-native.",
+            "objectID": "126514090",
+            "nameHighlight": "react-native-screcorder",
+            "descriptionHighlight": "A Video recorder component for react-native.",
+            "githubUserHighlight": "maxs15"
+        },
+        {
+            "modified": "2015-09-13T18:00:14.181Z",
+            "downloads": 31,
+            "name": "react-native-image-progressbar",
+            "stars": 4,
+            "latestVersion": "0.0.1",
+            "description": "An image based progress bar.",
+            "githubUser": "walmartreact",
+            "description_encoded": "An image based progress bar.",
+            "objectID": "126515440",
+            "nameHighlight": "react-native-image-progressbar",
+            "descriptionHighlight": "An image based progress bar.",
+            "githubUserHighlight": "walmartreact"
+        },
+        {
+            "modified": "2015-09-13T14:50:44.129Z",
+            "downloads": 134,
+            "name": "react-native-cropping",
+            "stars": 8,
+            "latestVersion": "0.0.4",
+            "description": "Cropping components for react-native.",
+            "githubUser": "walmartreact",
+            "description_encoded": "Cropping components for react-native.",
+            "objectID": "126515430",
+            "nameHighlight": "react-native-cropping",
+            "descriptionHighlight": "Cropping components for react-native.",
+            "githubUserHighlight": "walmartreact"
+        },
+        {
+            "name": "react-native-touchable-ripple",
+            "githubUser": "apolkingg8",
+            "githubName": "React-Native-Touchable-Ripple",
+            "description": "Ripple touch effect from Google Material Design.",
+            "modified": "2015-09-12T04:16:28.426Z",
+            "stars": 31,
+            "downloads": 631,
+            "latestVersion": "0.2.2",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "Ripple touch effect from Google Material Design.",
+            "objectID": "126514070",
+            "nameHighlight": "react-native-touchable-ripple",
+            "descriptionHighlight": "Ripple touch effect from Google Material Design.",
+            "githubUserHighlight": "apolkingg8"
+        },
+        {
+            "name": "apsl-react-native-button",
+            "githubUser": "APSL",
+            "githubName": "react-native-button",
+            "description": "React Native button component with rounded corners.",
+            "modified": "2015-09-11T16:01:31.772Z",
+            "stars": 12,
+            "downloads": 192,
+            "latestVersion": "2.0.0",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "React Native button component with rounded corners.",
+            "objectID": "126515240",
+            "nameHighlight": "apsl-react-native-button",
+            "descriptionHighlight": "React Native button component with rounded corners.",
+            "githubUserHighlight": "APSL"
+        },
+        {
+            "description": "A barcode generator for react-native.",
+            "downloads": 122,
+            "latestVersion": "0.2.1",
+            "githubUser": "leofidjeland",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-09-11T15:11:11.139Z",
+            "stars": 2,
+            "name": "react-native-barcode",
+            "description_encoded": "A barcode generator for react-native.",
+            "objectID": "126514580",
+            "nameHighlight": "react-native-barcode",
+            "descriptionHighlight": "A barcode generator for react-native.",
+            "githubUserHighlight": "leofidjeland"
+        },
+        {
+            "modified": "2015-09-11T07:38:32.700Z",
+            "downloads": 39,
+            "name": "react-native-relative-units",
+            "stars": 0,
+            "latestVersion": "0.0.1",
+            "description": "Relative units for React Native.",
+            "githubUser": "benzhe",
+            "description_encoded": "Relative units for React Native.",
+            "objectID": "126515410",
+            "nameHighlight": "react-native-relative-units",
+            "descriptionHighlight": "Relative units for React Native.",
+            "githubUserHighlight": "benzhe"
+        },
+        {
+            "downloads": 5639,
+            "description": "A &#60;Modal /&#62; component for react-native.",
+            "githubUser": "brentvatne",
+            "modified": "2015-09-10T18:39:44.812Z",
+            "name": "react-native-modal",
+            "stars": 167,
+            "latestVersion": "0.3.10",
+            "description_encoded": "A &#38;#60;Modal /&#38;#62; component for react-native.",
+            "objectID": "126513010",
+            "nameHighlight": "react-native-modal",
+            "descriptionHighlight": "A &#60;Modal /&#62; component for react-native.",
+            "githubUserHighlight": "brentvatne"
+        },
+        {
+            "latestVersion": "0.0.6",
+            "modified": "2015-09-10T09:06:40.960Z",
+            "downloads": 396,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "Iragne",
+            "stars": 5,
+            "name": "react-native-app-info",
+            "description": "React Native app info and version.",
+            "description_encoded": "React Native app info and version.",
+            "objectID": "126514140",
+            "nameHighlight": "react-native-app-info",
+            "descriptionHighlight": "React Native app info and version.",
+            "githubUserHighlight": "Iragne"
+        },
+        {
+            "latestVersion": "0.1.10",
+            "modified": "2015-09-10T04:36:27.132Z",
+            "downloads": 2074,
+            "githubUser": "brentvatne",
+            "stars": 219,
+            "name": "react-native-scrollable-tab-view",
+            "description": "This is probably my favorite navigation pattern on Android, I wish it were more common on iOS! This is a very simple JavaScript-only implementation of it for React Native. For more information about how the animations behind this work, check out the Rebou.",
+            "description_encoded": "This is probably my favorite navigation pattern on Android, I wish it were more common on iOS! This is a very simple JavaScript-only implementation of it for React Native. For more information about how the animations behind this work, check out the Rebou.",
+            "objectID": "126513980",
+            "nameHighlight": "react-native-scrollable-tab-view",
+            "descriptionHighlight": "This is probably my favorite navigation pattern on Android, I wish it were more common on iOS! This is a very simple JavaScript-only implementation of it for React Native. For more information about how the animations behind this work, check out the Rebou.",
+            "githubUserHighlight": "brentvatne"
+        }
+    ],
+    "initialCount": 324,
+    "perPage": 20,
+    "debugMode": false
+}

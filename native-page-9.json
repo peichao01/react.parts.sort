@@ -1,0 +1,340 @@
+{
+    "initialComponents": [
+        {
+            "modified": "2015-09-02T18:45:19.137Z",
+            "downloads": 125,
+            "name": "react-native-videoplayer",
+            "stars": 3,
+            "latestVersion": "1.2.0",
+            "description": "A native ios video player component.",
+            "githubUser": "yamill",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "A native ios video player component.",
+            "objectID": "126515380",
+            "nameHighlight": "react-native-videoplayer",
+            "descriptionHighlight": "A native ios video player component.",
+            "githubUserHighlight": "yamill"
+        },
+        {
+            "name": "react-native-realtimestorage-ios",
+            "githubUser": "realtime-framework",
+            "githubName": "RCTRealtimeCloudStorage",
+            "description": "The Realtime Framework Cloud Storage client for React-Native.",
+            "modified": "2015-09-02T10:33:56.253Z",
+            "stars": 4,
+            "downloads": 183,
+            "latestVersion": "1.0.2",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "The Realtime Framework Cloud Storage client for React-Native.",
+            "objectID": "126513390",
+            "nameHighlight": "react-native-realtimestorage-ios",
+            "descriptionHighlight": "The Realtime Framework Cloud Storage client for React-Native.",
+            "githubUserHighlight": "realtime-framework"
+        },
+        {
+            "modified": "2015-09-02T01:55:09.304Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "0.2.0",
+            "name": "react-native-check-file-exists-ios",
+            "downloads": 64,
+            "githubUser": "rhaker",
+            "description": "A react-native interface for checking if a file exists in the app documents directory. Returns yes or no.",
+            "stars": 0,
+            "description_encoded": "A react-native interface for checking if a file exists in the app documents directory. Returns yes or no.",
+            "objectID": "126515250",
+            "nameHighlight": "react-native-check-file-exists-ios",
+            "descriptionHighlight": "A react-native interface for checking if a file exists in the app documents directory. Returns yes or no.",
+            "githubUserHighlight": "rhaker"
+        },
+        {
+            "modified": "2015-09-02T01:41:36.117Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "0.1.0",
+            "name": "react-native-create-new-file-ios",
+            "downloads": 127,
+            "githubUser": "rhaker",
+            "description": "A react-native interface for creating a blank new file on ios. File must not already exist.",
+            "stars": 0,
+            "description_encoded": "A react-native interface for creating a blank new file on ios. File must not already exist.",
+            "objectID": "126515260",
+            "nameHighlight": "react-native-create-new-file-ios",
+            "descriptionHighlight": "A react-native interface for creating a blank new file on ios. File must not already exist.",
+            "githubUserHighlight": "rhaker"
+        },
+        {
+            "description": "A set of classes and react components to make work your react-native app in a browser. (with some limitations obviously).",
+            "downloads": 286,
+            "latestVersion": "0.0.8",
+            "githubUser": "mattiamanzati",
+            "modified": "2015-09-01T10:01:18.013Z",
+            "stars": 20,
+            "name": "react-native-web-polyfill",
+            "description_encoded": "A set of classes and react components to make work your react-native app in a browser. (with some limitations obviously).",
+            "objectID": "126514680",
+            "nameHighlight": "react-native-web-polyfill",
+            "descriptionHighlight": "A set of classes and react components to make work your react-native app in a browser. (with some limitations obviously).",
+            "githubUserHighlight": "mattiamanzati"
+        },
+        {
+            "description": "A pure JavaScript &#60;Slider /&#62; component for react-native.",
+            "downloads": 477,
+            "latestVersion": "0.3.1",
+            "githubUser": "jeanregisser",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-09-01T08:56:46.267Z",
+            "stars": 56,
+            "name": "react-native-slider",
+            "description_encoded": "A pure JavaScript &#38;#60;Slider /&#38;#62; component for react-native.",
+            "objectID": "126514370",
+            "nameHighlight": "react-native-slider",
+            "descriptionHighlight": "A pure JavaScript &#60;Slider /&#62; component for react-native.",
+            "githubUserHighlight": "jeanregisser"
+        },
+        {
+            "modified": "2015-08-30T06:05:07.304Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "0.0.3",
+            "name": "react-native-phone-picker",
+            "downloads": 92,
+            "githubUser": "Spikef",
+            "description": "React Native component for select phone number from address book.",
+            "stars": 6,
+            "description_encoded": "React Native component for select phone number from address book.",
+            "objectID": "126515270",
+            "nameHighlight": "react-native-phone-picker",
+            "descriptionHighlight": "React Native component for select phone number from address book.",
+            "githubUserHighlight": "Spikef"
+        },
+        {
+            "description": "Navigate to external URLs, handle in-app URLs, and access system URLs.",
+            "downloads": 752,
+            "latestVersion": "0.4.2",
+            "githubUser": "exponentjs",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-08-28T23:50:23.129Z",
+            "stars": 7,
+            "name": "react-native-url-handler",
+            "description_encoded": "Navigate to external URLs, handle in-app URLs, and access system URLs.",
+            "objectID": "126514670",
+            "nameHighlight": "react-native-url-handler",
+            "descriptionHighlight": "Navigate to external URLs, handle in-app URLs, and access system URLs.",
+            "githubUserHighlight": "exponentjs"
+        },
+        {
+            "modified": "2015-08-28T23:00:37.053Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "0.0.4",
+            "name": "react-native-intercom",
+            "downloads": 116,
+            "githubUser": "asamiller",
+            "description": "A React Native client for Intercom.io.",
+            "stars": 2,
+            "description_encoded": "A React Native client for Intercom.io.",
+            "objectID": "126514900",
+            "nameHighlight": "react-native-intercom",
+            "descriptionHighlight": "A React Native client for Intercom.io.",
+            "githubUserHighlight": "asamiller"
+        },
+        {
+            "modified": "2015-08-28T20:21:44.677Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "1.0.1",
+            "name": "react-native-local-image-manager",
+            "downloads": 49,
+            "githubUser": "asamiller",
+            "description": "A React Native module for downloading and resizing local images.",
+            "stars": 3,
+            "description_encoded": "A React Native module for downloading and resizing local images.",
+            "objectID": "126515360",
+            "nameHighlight": "react-native-local-image-manager",
+            "descriptionHighlight": "A React Native module for downloading and resizing local images.",
+            "githubUserHighlight": "asamiller"
+        },
+        {
+            "latestVersion": "0.0.9",
+            "modified": "2015-08-28T06:30:36.262Z",
+            "downloads": 522,
+            "githubUser": "levitanong",
+            "stars": 1,
+            "name": "popeye",
+            "description": "A native react popup component that can be anchored to any element.",
+            "description_encoded": "A native react popup component that can be anchored to any element.",
+            "objectID": "126514040",
+            "nameHighlight": "popeye",
+            "descriptionHighlight": "A native react popup component that can be anchored to any element.",
+            "githubUserHighlight": "levitanong"
+        },
+        {
+            "modified": "2015-08-27T15:19:55.523Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "0.1.1",
+            "name": "react-native-global-event-emitter",
+            "downloads": 33,
+            "githubUser": "paramaggarwal",
+            "description": "Shared event emitter between native and JS for React Native.",
+            "stars": 5,
+            "description_encoded": "Shared event emitter between native and JS for React Native.",
+            "objectID": "126515230",
+            "nameHighlight": "react-native-global-event-emitter",
+            "descriptionHighlight": "Shared event emitter between native and JS for React Native.",
+            "githubUserHighlight": "paramaggarwal"
+        },
+        {
+            "modified": "2015-08-27T14:21:54.027Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "0.1.1",
+            "name": "react-native-device-motion",
+            "downloads": 33,
+            "githubUser": "paramaggarwal",
+            "description": "iOS device motion wrapper for React Native.",
+            "stars": 11,
+            "description_encoded": "iOS device motion wrapper for React Native.",
+            "objectID": "126515220",
+            "nameHighlight": "react-native-device-motion",
+            "descriptionHighlight": "iOS device motion wrapper for React Native.",
+            "githubUserHighlight": "paramaggarwal"
+        },
+        {
+            "name": "react-native-assets",
+            "githubUser": "llanox",
+            "githubName": "react-native-assests",
+            "description": "Module to manage assets. It allows you download assests from a network and store into a specific local folder on iOS.",
+            "modified": "2015-08-26T16:27:55.958Z",
+            "stars": 8,
+            "downloads": 36,
+            "latestVersion": "0.0.1",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "Module to manage assets. It allows you download assests from a network and store into a specific local folder on iOS.",
+            "objectID": "126515190",
+            "nameHighlight": "react-native-assets",
+            "descriptionHighlight": "Module to manage assets. It allows you download assests from a network and store into a specific local folder on iOS.",
+            "githubUserHighlight": "llanox"
+        },
+        {
+            "stars": 64,
+            "githubUser": "darylrowland",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 253,
+            "latestVersion": "1.0.1",
+            "name": "react-native-remote-push",
+            "modified": "2015-08-26T07:30:50.574Z",
+            "description": "React Native Remote Push Notifications Component.",
+            "description_encoded": "React Native Remote Push Notifications Component.",
+            "objectID": "126513830",
+            "nameHighlight": "react-native-remote-push",
+            "descriptionHighlight": "React Native Remote Push Notifications Component.",
+            "githubUserHighlight": "darylrowland"
+        },
+        {
+            "modified": "2015-08-25T22:37:50.653Z",
+            "latestVersion": "0.0.8",
+            "name": "react-native-draggable-drawer",
+            "downloads": 276,
+            "githubUser": "llanox",
+            "description": "DraggableDrawer component for React Native.",
+            "stars": 4,
+            "description_encoded": "DraggableDrawer component for React Native.",
+            "objectID": "126515070",
+            "nameHighlight": "react-native-draggable-drawer",
+            "descriptionHighlight": "DraggableDrawer component for React Native.",
+            "githubUserHighlight": "llanox"
+        },
+        {
+            "name": "react-native-fbsdkshare",
+            "githubUser": "facebook",
+            "githubName": "react-native-fbsdk",
+            "description": "iOS FBSDKShareKit support for React Native apps.",
+            "modified": "2015-08-25T19:57:26.428Z",
+            "stars": 141,
+            "downloads": 461,
+            "latestVersion": "0.0.5",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "iOS FBSDKShareKit support for React Native apps.",
+            "objectID": "126514530",
+            "nameHighlight": "react-native-fbsdkshare",
+            "descriptionHighlight": "iOS FBSDKShareKit support for React Native apps.",
+            "githubUserHighlight": "facebook"
+        },
+        {
+            "name": "react-native-fbsdklogin",
+            "githubUser": "facebook",
+            "githubName": "react-native-fbsdk",
+            "description": "iOS FBSDKLoginKit support for React Native apps.",
+            "modified": "2015-08-25T19:57:13.993Z",
+            "stars": 141,
+            "downloads": 851,
+            "latestVersion": "0.0.5",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "iOS FBSDKLoginKit support for React Native apps.",
+            "objectID": "126514520",
+            "nameHighlight": "react-native-fbsdklogin",
+            "descriptionHighlight": "iOS FBSDKLoginKit support for React Native apps.",
+            "githubUserHighlight": "facebook"
+        },
+        {
+            "name": "react-native-fbsdkcore",
+            "githubUser": "facebook",
+            "githubName": "react-native-fbsdk",
+            "description": "iOS FBSDKCoreKit support for React Native apps.",
+            "modified": "2015-08-25T19:57:00.799Z",
+            "stars": 141,
+            "downloads": 762,
+            "latestVersion": "0.0.5",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "iOS FBSDKCoreKit support for React Native apps.",
+            "objectID": "126514510",
+            "nameHighlight": "react-native-fbsdkcore",
+            "descriptionHighlight": "iOS FBSDKCoreKit support for React Native apps.",
+            "githubUserHighlight": "facebook"
+        },
+        {
+            "modified": "2015-08-25T18:58:58.957Z",
+            "latestVersion": "1.0.1",
+            "name": "react-native-woopra",
+            "downloads": 64,
+            "githubUser": "isair",
+            "description": "Promise based Woopra library for react-native.",
+            "stars": 3,
+            "description_encoded": "Promise based Woopra library for react-native.",
+            "objectID": "126515180",
+            "nameHighlight": "react-native-woopra",
+            "descriptionHighlight": "Promise based Woopra library for react-native.",
+            "githubUserHighlight": "isair"
+        }
+    ],
+    "initialCount": 324,
+    "perPage": 20,
+    "debugMode": false
+}

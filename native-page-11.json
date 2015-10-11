@@ -1,0 +1,330 @@
+{
+    "initialComponents": [
+        {
+            "description": "Watch and respond to changes in the iOS status bar height.",
+            "downloads": 587,
+            "latestVersion": "0.2.0",
+            "githubUser": "brentvatne",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-08-13T02:51:15.131Z",
+            "stars": 16,
+            "name": "react-native-status-bar-size",
+            "description_encoded": "Watch and respond to changes in the iOS status bar height.",
+            "objectID": "126514650",
+            "nameHighlight": "react-native-status-bar-size",
+            "descriptionHighlight": "Watch and respond to changes in the iOS status bar height.",
+            "githubUserHighlight": "brentvatne"
+        },
+        {
+            "name": "angular-react-native-renderer",
+            "githubUser": "angular",
+            "githubName": "react-native-renderer",
+            "description": "An angular 2 renderer for react native.",
+            "modified": "2015-08-11T21:57:17.785Z",
+            "stars": 34,
+            "downloads": 50,
+            "latestVersion": "0.0.1",
+            "description_encoded": "An angular 2 renderer for react native.",
+            "objectID": "126514600",
+            "nameHighlight": "angular-react-native-renderer",
+            "descriptionHighlight": "An angular 2 renderer for react native.",
+            "githubUserHighlight": "angular"
+        },
+        {
+            "name": "react-native-bloodhound",
+            "githubUser": "yelled3",
+            "githubName": "node-bloodhound",
+            "description": "bloodhound.js in node for react native.",
+            "modified": "2015-08-11T13:31:59.060Z",
+            "stars": 1,
+            "downloads": 46,
+            "latestVersion": "1.0.0",
+            "description_encoded": "bloodhound.js in node for react native.",
+            "objectID": "126515060",
+            "nameHighlight": "react-native-bloodhound",
+            "descriptionHighlight": "bloodhound.js in node for react native.",
+            "githubUserHighlight": "yelled3"
+        },
+        {
+            "description": "Parallax effects for React Native using Animated API.",
+            "downloads": 257,
+            "latestVersion": "0.1.3",
+            "githubUser": "oblador",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-08-11T08:46:08.706Z",
+            "stars": 44,
+            "name": "react-native-parallax",
+            "description_encoded": "Parallax effects for React Native using Animated API.",
+            "objectID": "126514400",
+            "nameHighlight": "react-native-parallax",
+            "descriptionHighlight": "Parallax effects for React Native using Animated API.",
+            "githubUserHighlight": "oblador"
+        },
+        {
+            "description": "A collection of common UI components for react native mobile apps.",
+            "downloads": 201,
+            "latestVersion": "0.0.5",
+            "githubUser": "marty-wang",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-08-11T06:21:14.297Z",
+            "stars": 5,
+            "name": "react-native-toolkit",
+            "description_encoded": "A collection of common UI components for react native mobile apps.",
+            "objectID": "126514570",
+            "nameHighlight": "react-native-toolkit",
+            "descriptionHighlight": "A collection of common UI components for react native mobile apps.",
+            "githubUserHighlight": "marty-wang"
+        },
+        {
+            "latestVersion": "0.1.4",
+            "modified": "2015-08-09T19:54:32.154Z",
+            "downloads": 1091,
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "githubUser": "devfd",
+            "stars": 23,
+            "name": "react-native-geocoder",
+            "description": "react native geocoding and reverse geocoding.",
+            "description_encoded": "react native geocoding and reverse geocoding.",
+            "objectID": "126514020",
+            "nameHighlight": "react-native-geocoder",
+            "descriptionHighlight": "react native geocoding and reverse geocoding.",
+            "githubUserHighlight": "devfd"
+        },
+        {
+            "description": "Cookie manager for react native.",
+            "downloads": 616,
+            "latestVersion": "0.0.3",
+            "githubUser": "joeferraro",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-08-09T19:49:52.439Z",
+            "stars": 19,
+            "name": "react-native-cookies",
+            "description_encoded": "Cookie manager for react native.",
+            "objectID": "126514590",
+            "nameHighlight": "react-native-cookies",
+            "descriptionHighlight": "Cookie manager for react native.",
+            "githubUserHighlight": "joeferraro"
+        },
+        {
+            "stars": 6,
+            "githubUser": "anarchicknight",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 233,
+            "latestVersion": "0.0.3",
+            "name": "react-native-message-composer",
+            "modified": "2015-08-09T15:27:58.010Z",
+            "description": "React Native module bridge to iOS MFMessageComposeViewController.",
+            "description_encoded": "React Native module bridge to iOS MFMessageComposeViewController.",
+            "objectID": "126513460",
+            "nameHighlight": "react-native-message-composer",
+            "descriptionHighlight": "React Native module bridge to iOS MFMessageComposeViewController.",
+            "githubUserHighlight": "anarchicknight"
+        },
+        {
+            "stars": 3,
+            "githubUser": "anarchicknight",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 196,
+            "latestVersion": "0.0.3",
+            "name": "react-native-carrier-info",
+            "modified": "2015-08-09T14:49:53.136Z",
+            "description": "React Native module bridge to obtain information about the user&#8217;s home cellular service provider.",
+            "description_encoded": "React Native module bridge to obtain information about the user&#38;#8217;s home cellular service provider.",
+            "objectID": "126513580",
+            "nameHighlight": "react-native-carrier-info",
+            "descriptionHighlight": "React Native module bridge to obtain information about the user&#8217;s home cellular service provider.",
+            "githubUserHighlight": "anarchicknight"
+        },
+        {
+            "latestVersion": "0.2.2",
+            "modified": "2015-08-07T12:34:00.014Z",
+            "downloads": 351,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "oblador",
+            "stars": 54,
+            "name": "react-native-image-progress",
+            "description": "Progress indicator for networked images, supports progress bar and spinner.",
+            "description_encoded": "Progress indicator for networked images, supports progress bar and spinner.",
+            "objectID": "126514350",
+            "nameHighlight": "react-native-image-progress",
+            "descriptionHighlight": "Progress indicator for networked images, supports progress bar and spinner.",
+            "githubUserHighlight": "oblador"
+        },
+        {
+            "name": "react-transmit-native",
+            "githubUser": "RickWong",
+            "githubName": "react-transmit",
+            "description": "Relay-inspired library based on Promises instead of GraphQL.",
+            "modified": "2015-08-06T10:55:28.479Z",
+            "stars": 709,
+            "downloads": 1153,
+            "latestVersion": "2.6.4",
+            "description_encoded": "Relay-inspired library based on Promises instead of GraphQL.",
+            "objectID": "126513700",
+            "nameHighlight": "react-transmit-native",
+            "descriptionHighlight": "Relay-inspired library based on Promises instead of GraphQL.",
+            "githubUserHighlight": "RickWong"
+        },
+        {
+            "stars": 11,
+            "githubUser": "turley",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 543,
+            "latestVersion": "0.1.5",
+            "name": "react-native-asciimage",
+            "modified": "2015-08-06T00:09:28.714Z",
+            "description": "An ASCIImage component for React Native.",
+            "description_encoded": "An ASCIImage component for React Native.",
+            "objectID": "126513590",
+            "nameHighlight": "react-native-asciimage",
+            "descriptionHighlight": "An ASCIImage component for React Native.",
+            "githubUserHighlight": "turley"
+        },
+        {
+            "description": "A custom Circle Progress Indocator for React Native.",
+            "downloads": 72,
+            "latestVersion": "0.0.1",
+            "githubUser": "guodong000",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-08-05T08:45:16.092Z",
+            "stars": 7,
+            "name": "react-native-circle-progress",
+            "description_encoded": "A custom Circle Progress Indocator for React Native.",
+            "objectID": "126514500",
+            "nameHighlight": "react-native-circle-progress",
+            "descriptionHighlight": "A custom Circle Progress Indocator for React Native.",
+            "githubUserHighlight": "guodong000"
+        },
+        {
+            "modified": "2015-08-04T19:04:13.039Z",
+            "latestVersion": "1.0.2",
+            "name": "react-native-routes",
+            "downloads": 162,
+            "githubUser": "wenkesj",
+            "description": "A react native router with awesome transitions.",
+            "stars": 7,
+            "description_encoded": "A react native router with awesome transitions.",
+            "objectID": "126514940",
+            "nameHighlight": "react-native-routes",
+            "descriptionHighlight": "A react native router with awesome transitions.",
+            "githubUserHighlight": "wenkesj"
+        },
+        {
+            "description": "A custom ActionSheet for react-native.",
+            "downloads": 180,
+            "latestVersion": "0.0.4",
+            "githubUser": "guodong000",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-08-04T16:21:12.725Z",
+            "stars": 10,
+            "name": "react-native-custom-actsheet",
+            "description_encoded": "A custom ActionSheet for react-native.",
+            "objectID": "126514460",
+            "nameHighlight": "react-native-custom-actsheet",
+            "descriptionHighlight": "A custom ActionSheet for react-native.",
+            "githubUserHighlight": "guodong000"
+        },
+        {
+            "description": "Simple full screen media player for React Native.",
+            "downloads": 52,
+            "latestVersion": "0.0.1",
+            "githubUser": "chriselly",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-08-04T02:48:41.809Z",
+            "stars": 2,
+            "name": "react-native-mediaplayer",
+            "description_encoded": "Simple full screen media player for React Native.",
+            "objectID": "126514490",
+            "nameHighlight": "react-native-mediaplayer",
+            "descriptionHighlight": "Simple full screen media player for React Native.",
+            "githubUserHighlight": "chriselly"
+        },
+        {
+            "modified": "2015-08-04T01:02:27.370Z",
+            "latestVersion": "0.0.1",
+            "name": "react-native-transparent-bar",
+            "downloads": 42,
+            "githubUser": "23c",
+            "description": "react native navigator transparent bar.",
+            "stars": 3,
+            "description_encoded": "react native navigator transparent bar.",
+            "objectID": "126514990",
+            "nameHighlight": "react-native-transparent-bar",
+            "descriptionHighlight": "react native navigator transparent bar.",
+            "githubUserHighlight": "23c"
+        },
+        {
+            "description": "react-native scrollview with image lazy load.",
+            "downloads": 197,
+            "latestVersion": "1.0.4",
+            "githubUser": "IskenHuang",
+            "modified": "2015-08-03T10:25:49.667Z",
+            "stars": 6,
+            "name": "react-native-scrollview-lazyload",
+            "description_encoded": "react-native scrollview with image lazy load.",
+            "objectID": "126514450",
+            "nameHighlight": "react-native-scrollview-lazyload",
+            "descriptionHighlight": "react-native scrollview with image lazy load.",
+            "githubUserHighlight": "IskenHuang"
+        },
+        {
+            "downloads": 448,
+            "description": "levelup API for react-native AsyncStorage.",
+            "githubUser": "tradle",
+            "modified": "2015-07-31T22:27:19.893Z",
+            "name": "react-native-level",
+            "stars": 18,
+            "latestVersion": "1.0.2",
+            "description_encoded": "levelup API for react-native AsyncStorage.",
+            "objectID": "126513220",
+            "nameHighlight": "react-native-level",
+            "descriptionHighlight": "levelup API for react-native AsyncStorage.",
+            "githubUserHighlight": "tradle"
+        },
+        {
+            "description": "A file upload plugin for react-native.",
+            "downloads": 354,
+            "latestVersion": "1.0.3",
+            "githubUser": "booxood",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-07-30T13:41:09.757Z",
+            "stars": 19,
+            "name": "react-native-file-upload",
+            "description_encoded": "A file upload plugin for react-native.",
+            "objectID": "126514420",
+            "nameHighlight": "react-native-file-upload",
+            "descriptionHighlight": "A file upload plugin for react-native.",
+            "githubUserHighlight": "booxood"
+        }
+    ],
+    "initialCount": 324,
+    "perPage": 20,
+    "debugMode": false
+}

@@ -1,0 +1,320 @@
+{
+    "initialComponents": [
+        {
+            "name": "react-refresh-control",
+            "githubUser": "Shuangzuan",
+            "githubName": "RCTRefreshControl",
+            "description": "A pull down to refresh control for react native.",
+            "modified": "2015-07-14T01:53:07.121Z",
+            "stars": 128,
+            "downloads": 1062,
+            "latestVersion": "2.0.5",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "A pull down to refresh control for react native.",
+            "objectID": "126513800",
+            "nameHighlight": "react-refresh-control",
+            "descriptionHighlight": "A pull down to refresh control for react native.",
+            "githubUserHighlight": "Shuangzuan"
+        },
+        {
+            "downloads": 1397,
+            "description": "SQLite3 bindings for React Native.",
+            "githubUser": "almost",
+            "modified": "2015-07-13T10:22:33.755Z",
+            "name": "react-native-sqlite",
+            "platforms": {
+                "ios": true
+            },
+            "stars": 307,
+            "latestVersion": "0.0.12",
+            "description_encoded": "SQLite3 bindings for React Native.",
+            "objectID": "126513060",
+            "nameHighlight": "react-native-sqlite",
+            "descriptionHighlight": "SQLite3 bindings for React Native.",
+            "githubUserHighlight": "almost"
+        },
+        {
+            "latestVersion": "0.1.1",
+            "modified": "2015-07-12T19:44:03.888Z",
+            "downloads": 132,
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "githubUser": "pusherman",
+            "stars": 2,
+            "name": "react-native-network-info",
+            "description": "Get local network information.",
+            "description_encoded": "Get local network information.",
+            "objectID": "126514190",
+            "nameHighlight": "react-native-network-info",
+            "descriptionHighlight": "Get local network information.",
+            "githubUserHighlight": "pusherman"
+        },
+        {
+            "latestVersion": "0.0.6",
+            "modified": "2015-07-12T07:07:53.119Z",
+            "downloads": 459,
+            "githubUser": "TylerLH",
+            "stars": 30,
+            "name": "react-native-timeago",
+            "description": "Auto-updating timeago component for React Native.",
+            "description_encoded": "Auto-updating timeago component for React Native.",
+            "objectID": "126514060",
+            "nameHighlight": "react-native-timeago",
+            "descriptionHighlight": "Auto-updating timeago component for React Native.",
+            "githubUserHighlight": "TylerLH"
+        },
+        {
+            "latestVersion": "1.0.0",
+            "modified": "2015-07-10T00:08:56.989Z",
+            "downloads": 237,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "Dharmoslap",
+            "stars": 19,
+            "name": "react-native-responsive-image",
+            "description": "Image component, that resizes itself appropriately on all different iOS screens.",
+            "description_encoded": "Image component, that resizes itself appropriately on all different iOS screens.",
+            "objectID": "126514290",
+            "nameHighlight": "react-native-responsive-image",
+            "descriptionHighlight": "Image component, that resizes itself appropriately on all different iOS screens.",
+            "githubUserHighlight": "Dharmoslap"
+        },
+        {
+            "latestVersion": "0.0.6",
+            "modified": "2015-07-09T04:06:38.448Z",
+            "downloads": 572,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "AlexanderZaytsev",
+            "stars": 28,
+            "name": "react-native-i18n",
+            "description": "React Native and I18n.js integration.",
+            "description_encoded": "React Native and I18n.js integration.",
+            "objectID": "126513970",
+            "nameHighlight": "react-native-i18n",
+            "descriptionHighlight": "React Native and I18n.js integration.",
+            "githubUserHighlight": "AlexanderZaytsev"
+        },
+        {
+            "description": "Apple&#39;s default Core Animation easing functions for React.",
+            "downloads": 154,
+            "latestVersion": "0.0.2",
+            "githubUser": "exponentjs",
+            "modified": "2015-07-09T02:02:14.378Z",
+            "stars": 40,
+            "name": "react-apple-easing",
+            "description_encoded": "Apple&#38;#39;s default Core Animation easing functions for React.",
+            "objectID": "126514760",
+            "nameHighlight": "react-apple-easing",
+            "descriptionHighlight": "Apple&#39;s default Core Animation easing functions for React.",
+            "githubUserHighlight": "exponentjs"
+        },
+        {
+            "latestVersion": "0.1.0",
+            "modified": "2015-07-08T17:20:26.875Z",
+            "downloads": 161,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "andreaskeller",
+            "stars": 8,
+            "name": "react-native-audioplayer",
+            "description": "Small audio player library for react native.",
+            "description_encoded": "Small audio player library for react native.",
+            "objectID": "126514160",
+            "nameHighlight": "react-native-audioplayer",
+            "descriptionHighlight": "Small audio player library for react native.",
+            "githubUserHighlight": "andreaskeller"
+        },
+        {
+            "stars": 3,
+            "githubUser": "tradle",
+            "downloads": 372,
+            "latestVersion": "1.0.3",
+            "name": "react-native-level-fs",
+            "modified": "2015-07-08T15:10:04.427Z",
+            "description": "fs for react-native using level-filesystem and asyncstorage-down.",
+            "description_encoded": "fs for react-native using level-filesystem and asyncstorage-down.",
+            "objectID": "126513710",
+            "nameHighlight": "react-native-level-fs",
+            "descriptionHighlight": "fs for react-native using level-filesystem and asyncstorage-down.",
+            "githubUserHighlight": "tradle"
+        },
+        {
+            "latestVersion": "1.0.2",
+            "modified": "2015-07-08T14:42:00.974Z",
+            "downloads": 410,
+            "githubUser": "soliury",
+            "stars": 5,
+            "name": "react-native-html-render",
+            "description": "A html render for react-native.",
+            "description_encoded": "A html render for react-native.",
+            "objectID": "126514170",
+            "nameHighlight": "react-native-html-render",
+            "descriptionHighlight": "A html render for react-native.",
+            "githubUserHighlight": "soliury"
+        },
+        {
+            "modified": "2015-07-08T10:55:41.168Z",
+            "latestVersion": "0.2.3",
+            "name": "react-native-gesture-recognizers",
+            "downloads": 151,
+            "githubUser": "johanneslumpe",
+            "description": "Gesture recognizer decorators for react-native.",
+            "stars": 33,
+            "description_encoded": "Gesture recognizer decorators for react-native.",
+            "objectID": "126514880",
+            "nameHighlight": "react-native-gesture-recognizers",
+            "descriptionHighlight": "Gesture recognizer decorators for react-native.",
+            "githubUserHighlight": "johanneslumpe"
+        },
+        {
+            "stars": 189,
+            "githubUser": "brentvatne",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 755,
+            "latestVersion": "0.2.1",
+            "name": "react-native-svg",
+            "modified": "2015-07-07T23:53:25.768Z",
+            "description": "A &#60;Svg /&#62; element for react-native that renders Svg images using SVGKit.",
+            "description_encoded": "A &#38;#60;Svg /&#38;#62; element for react-native that renders Svg images using SVGKit.",
+            "objectID": "126513510",
+            "nameHighlight": "react-native-svg",
+            "descriptionHighlight": "A &#60;Svg /&#62; element for react-native that renders Svg images using SVGKit.",
+            "githubUserHighlight": "brentvatne"
+        },
+        {
+            "stars": 20,
+            "githubUser": "dsibiski",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 711,
+            "latestVersion": "0.1.3",
+            "name": "react-native-userdefaults-ios",
+            "modified": "2015-07-06T21:52:52.638Z",
+            "description": "React Native Module for NSUserDefaults.",
+            "description_encoded": "React Native Module for NSUserDefaults.",
+            "objectID": "126513740",
+            "nameHighlight": "react-native-userdefaults-ios",
+            "descriptionHighlight": "React Native Module for NSUserDefaults.",
+            "githubUserHighlight": "dsibiski"
+        },
+        {
+            "description": "Clones a React element while preserving its original ref.",
+            "downloads": 1342,
+            "latestVersion": "1.0.0",
+            "githubUser": "ide",
+            "modified": "2015-07-06T09:20:09.810Z",
+            "stars": 2,
+            "name": "react-native-clone-referenced-element",
+            "description_encoded": "Clones a React element while preserving its original ref.",
+            "objectID": "126514800",
+            "nameHighlight": "react-native-clone-referenced-element",
+            "descriptionHighlight": "Clones a React element while preserving its original ref.",
+            "githubUserHighlight": "ide"
+        },
+        {
+            "stars": 18,
+            "githubUser": "tradle",
+            "downloads": 668,
+            "latestVersion": "1.0.0",
+            "name": "asyncstorage-down",
+            "modified": "2015-07-05T15:50:32.924Z",
+            "description": "A leveldown API implementation that maps to AsyncStorage in React Native, originally a fork of no9/localstorage-down.",
+            "description_encoded": "A leveldown API implementation that maps to AsyncStorage in React Native, originally a fork of no9/localstorage-down.",
+            "objectID": "126513610",
+            "nameHighlight": "asyncstorage-down",
+            "descriptionHighlight": "A leveldown API implementation that maps to AsyncStorage in React Native, originally a fork of no9/localstorage-down.",
+            "githubUserHighlight": "tradle"
+        },
+        {
+            "name": "autoresponsive-react-native",
+            "githubUser": "xudafeng",
+            "githubName": "autoresponsive-react",
+            "description": "auto responsive grid layout library.",
+            "modified": "2015-07-05T15:46:13.215Z",
+            "stars": 322,
+            "downloads": 838,
+            "latestVersion": "1.0.4",
+            "description_encoded": "auto responsive grid layout library.",
+            "objectID": "126514120",
+            "nameHighlight": "autoresponsive-react-native",
+            "descriptionHighlight": "auto responsive grid layout library.",
+            "githubUserHighlight": "xudafeng"
+        },
+        {
+            "description": "Determine whether the device is set to 12 or 24 hour time.",
+            "downloads": 295,
+            "latestVersion": "0.1.3",
+            "githubUser": "brentvatne",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-07-05T04:50:39.586Z",
+            "stars": 4,
+            "name": "react-native-device-clock-format",
+            "description_encoded": "Determine whether the device is set to 12 or 24 hour time.",
+            "objectID": "126514830",
+            "nameHighlight": "react-native-device-clock-format",
+            "descriptionHighlight": "Determine whether the device is set to 12 or 24 hour time.",
+            "githubUserHighlight": "brentvatne"
+        },
+        {
+            "downloads": 531,
+            "description": "Google Analytics for React Native!",
+            "githubUser": "lwansbrough",
+            "modified": "2015-07-02T21:00:22.675Z",
+            "name": "react-native-google-analytics",
+            "stars": 48,
+            "latestVersion": "0.0.2",
+            "description_encoded": "Google Analytics for React Native!",
+            "objectID": "126513300",
+            "nameHighlight": "react-native-google-analytics",
+            "descriptionHighlight": "Google Analytics for React Native!",
+            "githubUserHighlight": "lwansbrough"
+        },
+        {
+            "description": "Local DB Models for React Native Apps.",
+            "downloads": 691,
+            "latestVersion": "0.1.1",
+            "githubUser": "darkrishabh",
+            "modified": "2015-07-02T07:30:18.178Z",
+            "stars": 39,
+            "name": "react-native-db-models",
+            "description_encoded": "Local DB Models for React Native Apps.",
+            "objectID": "126514810",
+            "nameHighlight": "react-native-db-models",
+            "descriptionHighlight": "Local DB Models for React Native Apps.",
+            "githubUserHighlight": "darkrishabh"
+        },
+        {
+            "latestVersion": "1.0.6",
+            "modified": "2015-07-01T09:46:14.139Z",
+            "downloads": 433,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "mmslate",
+            "stars": 9,
+            "name": "react-native-eupage",
+            "description": "Easy to show html, image, video fullscreen pages.",
+            "description_encoded": "Easy to show html, image, video fullscreen pages.",
+            "objectID": "126513960",
+            "nameHighlight": "react-native-eupage",
+            "descriptionHighlight": "Easy to show html, image, video fullscreen pages.",
+            "githubUserHighlight": "mmslate"
+        }
+    ],
+    "initialCount": 324,
+    "perPage": 20,
+    "debugMode": false
+}

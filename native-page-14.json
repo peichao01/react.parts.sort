@@ -1,0 +1,335 @@
+{
+    "initialComponents": [
+        {
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "bh5-pods",
+            "modified": "2015-06-29T22:58:49.303Z",
+            "description": "Google Cloud Messaging for React Native.",
+            "stars": 17,
+            "name": "react-native-gcm",
+            "downloads": 436,
+            "latestVersion": "0.1.6",
+            "description_encoded": "Google Cloud Messaging for React Native.",
+            "objectID": "126515820",
+            "nameHighlight": "react-native-gcm",
+            "descriptionHighlight": "Google Cloud Messaging for React Native.",
+            "githubUserHighlight": "bh5-pods"
+        },
+        {
+            "modified": "2015-06-29T00:59:19.768Z",
+            "latestVersion": "1.0.2",
+            "name": "react-native-util",
+            "downloads": 292,
+            "githubUser": "exponentjs",
+            "description": "A fork of io.js&#39;s util module that works with React Native.",
+            "stars": 1,
+            "description_encoded": "A fork of io.js&#38;#39;s util module that works with React Native.",
+            "objectID": "126515000",
+            "nameHighlight": "react-native-util",
+            "descriptionHighlight": "A fork of io.js&#39;s util module that works with React Native.",
+            "githubUserHighlight": "exponentjs"
+        },
+        {
+            "modified": "2015-06-28T11:34:42.551Z",
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "latestVersion": "0.0.9",
+            "name": "react-native-networking",
+            "downloads": 590,
+            "githubUser": "eduedix",
+            "description": "react-native module to download and upload files with AFNetworking.",
+            "stars": 15,
+            "description_encoded": "react-native module to download and upload files with AFNetworking.",
+            "objectID": "126514920",
+            "nameHighlight": "react-native-networking",
+            "descriptionHighlight": "react-native module to download and upload files with AFNetworking.",
+            "githubUserHighlight": "eduedix"
+        },
+        {
+            "downloads": 2262,
+            "description": "A pull-to-refresh ListView which shows a loading spinner while your data reloads.",
+            "githubUser": "jsdf",
+            "modified": "2015-06-27T02:49:24.973Z",
+            "name": "react-native-refreshable-listview",
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "stars": 277,
+            "latestVersion": "1.3.0",
+            "description_encoded": "A pull-to-refresh ListView which shows a loading spinner while your data reloads.",
+            "objectID": "126513040",
+            "nameHighlight": "react-native-refreshable-listview",
+            "descriptionHighlight": "A pull-to-refresh ListView which shows a loading spinner while your data reloads.",
+            "githubUserHighlight": "jsdf"
+        },
+        {
+            "description": "A react-native webview with bridge to react-native code.",
+            "downloads": 488,
+            "latestVersion": "0.0.7",
+            "githubUser": "Intellicode",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-06-26T21:53:10.159Z",
+            "stars": 0,
+            "name": "react-native-bridgeable-webview",
+            "description_encoded": "A react-native webview with bridge to react-native code.",
+            "objectID": "126514780",
+            "nameHighlight": "react-native-bridgeable-webview",
+            "descriptionHighlight": "A react-native webview with bridge to react-native code.",
+            "githubUserHighlight": "Intellicode"
+        },
+        {
+            "stars": 42,
+            "githubUser": "kirkness",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 548,
+            "latestVersion": "0.0.6",
+            "name": "react-native-swift-socketio",
+            "modified": "2015-06-26T16:52:36.659Z",
+            "description": "A react native wrapper for socket.io-client-swift.",
+            "description_encoded": "A react native wrapper for socket.io-client-swift.",
+            "objectID": "126513670",
+            "nameHighlight": "react-native-swift-socketio",
+            "descriptionHighlight": "A react native wrapper for socket.io-client-swift.",
+            "githubUserHighlight": "kirkness"
+        },
+        {
+            "description": "A react-native interface for EventSource: Server-Sent Events for iOS.",
+            "downloads": 228,
+            "latestVersion": "0.0.3",
+            "githubUser": "jordanbyron",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-06-26T00:49:37.797Z",
+            "stars": 15,
+            "name": "react-native-event-source",
+            "description_encoded": "A react-native interface for EventSource: Server-Sent Events for iOS.",
+            "objectID": "126514860",
+            "nameHighlight": "react-native-event-source",
+            "descriptionHighlight": "A react-native interface for EventSource: Server-Sent Events for iOS.",
+            "githubUserHighlight": "jordanbyron"
+        },
+        {
+            "modified": "2015-06-25T20:16:30.471Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "0.1.1",
+            "name": "react-native-tabbar",
+            "downloads": 280,
+            "githubUser": "alinz",
+            "description": "Tab bar with more freedom.",
+            "stars": 8,
+            "description_encoded": "Tab bar with more freedom.",
+            "objectID": "126514970",
+            "nameHighlight": "react-native-tabbar",
+            "descriptionHighlight": "Tab bar with more freedom.",
+            "githubUserHighlight": "alinz"
+        },
+        {
+            "name": "react-paypal",
+            "githubUser": "MattFoley",
+            "githubName": "react-native-paypal",
+            "description": "Paypal wrapper for React Native, currently only supports the bare minimum of buying a product.",
+            "modified": "2015-06-23T00:41:14.698Z",
+            "stars": 10,
+            "downloads": 67,
+            "latestVersion": "0.0.1",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "Paypal wrapper for React Native, currently only supports the bare minimum of buying a product.",
+            "objectID": "126514030",
+            "nameHighlight": "react-paypal",
+            "descriptionHighlight": "Paypal wrapper for React Native, currently only supports the bare minimum of buying a product.",
+            "githubUserHighlight": "MattFoley"
+        },
+        {
+            "description": "Add coloured borders or backgrounds to all views to make it easier to debug layout issues.",
+            "downloads": 717,
+            "latestVersion": "0.1.0",
+            "githubUser": "brentvatne",
+            "modified": "2015-06-19T20:00:36.197Z",
+            "stars": 19,
+            "name": "react-native-debug-stylesheet",
+            "description_encoded": "Add coloured borders or backgrounds to all views to make it easier to debug layout issues.",
+            "objectID": "126514820",
+            "nameHighlight": "react-native-debug-stylesheet",
+            "descriptionHighlight": "Add coloured borders or backgrounds to all views to make it easier to debug layout issues.",
+            "githubUserHighlight": "brentvatne"
+        },
+        {
+            "description": "Environment manager for react native.",
+            "downloads": 268,
+            "latestVersion": "0.0.3",
+            "githubUser": "joeferraro",
+            "platforms": {
+                "ios": true
+            },
+            "modified": "2015-06-18T17:36:18.842Z",
+            "stars": 8,
+            "name": "react-native-env",
+            "description_encoded": "Environment manager for react native.",
+            "objectID": "126514850",
+            "nameHighlight": "react-native-env",
+            "descriptionHighlight": "Environment manager for react native.",
+            "githubUserHighlight": "joeferraro"
+        },
+        {
+            "latestVersion": "0.1.0",
+            "modified": "2015-06-18T02:52:51.715Z",
+            "downloads": 151,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "naoufal",
+            "stars": 24,
+            "name": "react-native-speech",
+            "description": "A text-to-speech library for React Native.",
+            "description_encoded": "A text-to-speech library for React Native.",
+            "objectID": "126514010",
+            "nameHighlight": "react-native-speech",
+            "descriptionHighlight": "A text-to-speech library for React Native.",
+            "githubUserHighlight": "naoufal"
+        },
+        {
+            "latestVersion": "0.0.1",
+            "modified": "2015-06-15T13:15:54.247Z",
+            "downloads": 68,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "yelled3",
+            "stars": 32,
+            "name": "react-native-grid-example",
+            "description": "React Native - Grid Layout Example.",
+            "description_encoded": "React Native - Grid Layout Example.",
+            "objectID": "126513990",
+            "nameHighlight": "react-native-grid-example",
+            "descriptionHighlight": "React Native - Grid Layout Example.",
+            "githubUserHighlight": "yelled3"
+        },
+        {
+            "latestVersion": "1.0.2",
+            "modified": "2015-06-13T11:17:31.082Z",
+            "downloads": 335,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "silentcloud",
+            "stars": 26,
+            "name": "react-native-page-control",
+            "description": "React native page control, like ios  UIPageControl.",
+            "description_encoded": "React native page control, like ios  UIPageControl.",
+            "objectID": "126513940",
+            "nameHighlight": "react-native-page-control",
+            "descriptionHighlight": "React native page control, like ios  UIPageControl.",
+            "githubUserHighlight": "silentcloud"
+        },
+        {
+            "stars": 47,
+            "githubUser": "jeanregisser",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 390,
+            "latestVersion": "0.2.0",
+            "name": "react-native-popover",
+            "modified": "2015-06-12T15:49:26.808Z",
+            "description": "A &#60;Popover /&#62; component for react-native.",
+            "description_encoded": "A &#38;#60;Popover /&#38;#62; component for react-native.",
+            "objectID": "126513820",
+            "nameHighlight": "react-native-popover",
+            "descriptionHighlight": "A &#60;Popover /&#62; component for react-native.",
+            "githubUserHighlight": "jeanregisser"
+        },
+        {
+            "downloads": 962,
+            "description": "A component which renders HTML content as native views.",
+            "githubUser": "jsdf",
+            "modified": "2015-06-11T11:18:25.407Z",
+            "name": "react-native-htmlview",
+            "stars": 109,
+            "latestVersion": "0.2.0",
+            "description_encoded": "A component which renders HTML content as native views.",
+            "objectID": "126512940",
+            "nameHighlight": "react-native-htmlview",
+            "descriptionHighlight": "A component which renders HTML content as native views.",
+            "githubUserHighlight": "jsdf"
+        },
+        {
+            "downloads": 1577,
+            "description": "Awesome navigation for your native app.",
+            "githubUser": "t4t5",
+            "modified": "2015-06-11T09:45:59.050Z",
+            "name": "react-native-router",
+            "stars": 487,
+            "latestVersion": "0.2.1",
+            "description_encoded": "Awesome navigation for your native app.",
+            "objectID": "126513190",
+            "nameHighlight": "react-native-router",
+            "descriptionHighlight": "Awesome navigation for your native app.",
+            "githubUserHighlight": "t4t5"
+        },
+        {
+            "modified": "2015-06-10T23:02:23.781Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "0.1.0",
+            "name": "react-native-multipeer",
+            "downloads": 213,
+            "githubUser": "lwansbrough",
+            "description": "Communicate over ad hoc wifi using Multipeer Connectivity.",
+            "stars": 26,
+            "description_encoded": "Communicate over ad hoc wifi using Multipeer Connectivity.",
+            "objectID": "126514910",
+            "nameHighlight": "react-native-multipeer",
+            "descriptionHighlight": "Communicate over ad hoc wifi using Multipeer Connectivity.",
+            "githubUserHighlight": "lwansbrough"
+        },
+        {
+            "modified": "2015-06-09T19:25:02.126Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "0.1.4",
+            "name": "react-native-scene-manager",
+            "downloads": 357,
+            "githubUser": "alinz",
+            "description": "Simple Scene Manager for React-Native.",
+            "stars": 1,
+            "description_encoded": "Simple Scene Manager for React-Native.",
+            "objectID": "126514950",
+            "nameHighlight": "react-native-scene-manager",
+            "descriptionHighlight": "Simple Scene Manager for React-Native.",
+            "githubUserHighlight": "alinz"
+        },
+        {
+            "latestVersion": "0.0.3",
+            "modified": "2015-06-07T02:41:04.471Z",
+            "downloads": 225,
+            "githubUser": "Shuangzuan",
+            "stars": 8,
+            "name": "react-native-square-view",
+            "description": "A square view component for react native.",
+            "description_encoded": "A square view component for react native.",
+            "objectID": "126513870",
+            "nameHighlight": "react-native-square-view",
+            "descriptionHighlight": "A square view component for react native.",
+            "githubUserHighlight": "Shuangzuan"
+        }
+    ],
+    "initialCount": 324,
+    "perPage": 20,
+    "debugMode": false
+}

@@ -1,0 +1,337 @@
+{
+    "initialComponents": [
+        {
+            "stars": 16,
+            "githubUser": "tradle",
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "downloads": 1044,
+            "latestVersion": "0.1.0",
+            "name": "react-native-udp",
+            "modified": "2015-07-29T19:28:17.878Z",
+            "description": "node&#39;s dgram API for react-native.",
+            "description_encoded": "node&#38;#39;s dgram API for react-native.",
+            "objectID": "126513680",
+            "nameHighlight": "react-native-udp",
+            "descriptionHighlight": "node&#39;s dgram API for react-native.",
+            "githubUserHighlight": "tradle"
+        },
+        {
+            "stars": 32,
+            "githubUser": "rt2zz",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 976,
+            "latestVersion": "1.2.0",
+            "name": "react-native-addressbook",
+            "modified": "2015-07-29T16:47:17.672Z",
+            "description": "AddressBook module for react-native.",
+            "description_encoded": "AddressBook module for react-native.",
+            "objectID": "126513370",
+            "nameHighlight": "react-native-addressbook",
+            "descriptionHighlight": "AddressBook module for react-native.",
+            "githubUserHighlight": "rt2zz"
+        },
+        {
+            "name": "react-native-localsearch",
+            "githubUser": "wmcmahan",
+            "githubName": "React-Native-LocalSearch",
+            "description": "React Native Module for MapKit Local Search.",
+            "modified": "2015-07-26T00:09:33.980Z",
+            "stars": 4,
+            "downloads": 124,
+            "latestVersion": "0.0.2",
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "React Native Module for MapKit Local Search.",
+            "objectID": "126514390",
+            "nameHighlight": "react-native-localsearch",
+            "descriptionHighlight": "React Native Module for MapKit Local Search.",
+            "githubUserHighlight": "wmcmahan"
+        },
+        {
+            "latestVersion": "1.0.5",
+            "modified": "2015-07-25T12:08:37.329Z",
+            "downloads": 441,
+            "githubUser": "Iliker",
+            "stars": 2,
+            "name": "react-native-loading-effect",
+            "description": "a simple loading effect, based on ActivityIndicatorIOS Component.",
+            "description_encoded": "a simple loading effect, based on ActivityIndicatorIOS Component.",
+            "objectID": "126513880",
+            "nameHighlight": "react-native-loading-effect",
+            "descriptionHighlight": "a simple loading effect, based on ActivityIndicatorIOS Component.",
+            "githubUserHighlight": "Iliker"
+        },
+        {
+            "latestVersion": "1.0.4",
+            "modified": "2015-07-24T12:53:31.048Z",
+            "downloads": 979,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "kkjdaniel",
+            "stars": 31,
+            "name": "react-native-device-display",
+            "description": "A simple way to create dynamic views through device and display detection, allowing the creation of adaptable and universal apps.",
+            "description_encoded": "A simple way to create dynamic views through device and display detection, allowing the creation of adaptable and universal apps.",
+            "objectID": "126514080",
+            "nameHighlight": "react-native-device-display",
+            "descriptionHighlight": "A simple way to create dynamic views through device and display detection, allowing the creation of adaptable and universal apps.",
+            "githubUserHighlight": "kkjdaniel"
+        },
+        {
+            "downloads": 483,
+            "description": "Use the iOS native Twitter and Facebook share view from react native.",
+            "githubUser": "doefler",
+            "modified": "2015-07-23T21:28:40.916Z",
+            "name": "react-native-social-share",
+            "platforms": {
+                "ios": true
+            },
+            "stars": 61,
+            "latestVersion": "0.4.0",
+            "description_encoded": "Use the iOS native Twitter and Facebook share view from react native.",
+            "objectID": "126513360",
+            "nameHighlight": "react-native-social-share",
+            "descriptionHighlight": "Use the iOS native Twitter and Facebook share view from react native.",
+            "githubUserHighlight": "doefler"
+        },
+        {
+            "downloads": 381,
+            "description": "A UIPicker implementation that allows multiple UIPicker components.",
+            "githubUser": "veddermatic",
+            "modified": "2015-07-23T14:55:02.114Z",
+            "name": "react-native-multipicker",
+            "platforms": {
+                "ios": true
+            },
+            "stars": 18,
+            "latestVersion": "0.1.1",
+            "description_encoded": "A UIPicker implementation that allows multiple UIPicker components.",
+            "objectID": "126513340",
+            "nameHighlight": "react-native-multipicker",
+            "descriptionHighlight": "A UIPicker implementation that allows multiple UIPicker components.",
+            "githubUserHighlight": "veddermatic"
+        },
+        {
+            "latestVersion": "0.1.1",
+            "modified": "2015-07-23T08:17:04.177Z",
+            "downloads": 290,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "syrusakbary",
+            "stars": 92,
+            "name": "react-native-refresher",
+            "description": "A React Native pull to refresh ListView completely written in js. Also supports custom animations.",
+            "description_encoded": "A React Native pull to refresh ListView completely written in js. Also supports custom animations.",
+            "objectID": "126514150",
+            "nameHighlight": "react-native-refresher",
+            "descriptionHighlight": "A React Native pull to refresh ListView completely written in js. Also supports custom animations.",
+            "githubUserHighlight": "syrusakbary"
+        },
+        {
+            "downloads": 985,
+            "description": "Simple carousel component for react-native.",
+            "githubUser": "nick",
+            "modified": "2015-07-22T20:31:33.390Z",
+            "name": "react-native-carousel",
+            "stars": 69,
+            "latestVersion": "0.3.5",
+            "description_encoded": "Simple carousel component for react-native.",
+            "objectID": "126512910",
+            "nameHighlight": "react-native-carousel",
+            "descriptionHighlight": "Simple carousel component for react-native.",
+            "githubUserHighlight": "nick"
+        },
+        {
+            "latestVersion": "1.2.2",
+            "modified": "2015-07-21T13:27:21.057Z",
+            "downloads": 284,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "ilansas",
+            "stars": 15,
+            "name": "react-native-navigation-drawer",
+            "description": "A slide menu inspired from Android for React-Native.",
+            "description_encoded": "A slide menu inspired from Android for React-Native.",
+            "objectID": "126514270",
+            "nameHighlight": "react-native-navigation-drawer",
+            "descriptionHighlight": "A slide menu inspired from Android for React-Native.",
+            "githubUserHighlight": "ilansas"
+        },
+        {
+            "latestVersion": "1.0.1",
+            "modified": "2015-07-20T12:51:00.543Z",
+            "downloads": 109,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "frostney",
+            "stars": 4,
+            "name": "react-native-bluetooth-state",
+            "description": "Answering the question of &#34;Is my bluetooth on?&#34; in React Native.",
+            "description_encoded": "Answering the question of &#38;#34;Is my bluetooth on?&#38;#34; in React Native.",
+            "objectID": "126514340",
+            "nameHighlight": "react-native-bluetooth-state",
+            "descriptionHighlight": "Answering the question of &#34;Is my bluetooth on?&#34; in React Native.",
+            "githubUserHighlight": "frostney"
+        },
+        {
+            "downloads": 812,
+            "description": "iBeacon support for React Native. The API is very similar to the CoreLocation Objective-C one with the only major difference that regions are plain JavaScript objects. Beacons don&#39;t work in the iOS simulator.",
+            "githubUser": "geniuxconsulting",
+            "modified": "2015-07-20T09:34:35.717Z",
+            "name": "react-native-ibeacon",
+            "platforms": {
+                "ios": true
+            },
+            "stars": 56,
+            "latestVersion": "0.5.0",
+            "description_encoded": "iBeacon support for React Native. The API is very similar to the CoreLocation Objective-C one with the only major difference that regions are plain JavaScript objects. Beacons don&#38;#39;t work in the iOS simulator.",
+            "objectID": "126513270",
+            "nameHighlight": "react-native-ibeacon",
+            "descriptionHighlight": "iBeacon support for React Native. The API is very similar to the CoreLocation Objective-C one with the only major difference that regions are plain JavaScript objects. Beacons don&#39;t work in the iOS simulator.",
+            "githubUserHighlight": "geniuxconsulting"
+        },
+        {
+            "latestVersion": "1.0.0",
+            "modified": "2015-07-20T08:55:49.431Z",
+            "downloads": 57,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "gaoli",
+            "stars": 2,
+            "name": "react-native-range-selector",
+            "description": "react native range selector.",
+            "description_encoded": "react native range selector.",
+            "objectID": "126514360",
+            "nameHighlight": "react-native-range-selector",
+            "descriptionHighlight": "react native range selector.",
+            "githubUserHighlight": "gaoli"
+        },
+        {
+            "latestVersion": "0.0.2",
+            "modified": "2015-07-19T07:17:26.774Z",
+            "downloads": 83,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "DrMabuse23",
+            "stars": 1,
+            "name": "react-native-device-orientation",
+            "description": "detect device orientation ios.",
+            "description_encoded": "detect device orientation ios.",
+            "objectID": "126514320",
+            "nameHighlight": "react-native-device-orientation",
+            "descriptionHighlight": "detect device orientation ios.",
+            "githubUserHighlight": "DrMabuse23"
+        },
+        {
+            "stars": 62,
+            "githubUser": "naoufal",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 757,
+            "latestVersion": "1.2.1",
+            "name": "react-native-touch-id",
+            "modified": "2015-07-19T01:32:05.139Z",
+            "description": "React Native authentication with the native Touch ID popup.",
+            "description_encoded": "React Native authentication with the native Touch ID popup.",
+            "objectID": "126513850",
+            "nameHighlight": "react-native-touch-id",
+            "descriptionHighlight": "React Native authentication with the native Touch ID popup.",
+            "githubUserHighlight": "naoufal"
+        },
+        {
+            "stars": 158,
+            "githubUser": "lelandrichardson",
+            "platforms": {
+                "ios": true
+            },
+            "downloads": 1050,
+            "latestVersion": "2.0.2",
+            "name": "react-native-parallax-view",
+            "modified": "2015-07-18T15:50:32.114Z",
+            "description": "Parallax view for vertical scrollview with a header image and header content.",
+            "description_encoded": "Parallax view for vertical scrollview with a header image and header content.",
+            "objectID": "126513490",
+            "nameHighlight": "react-native-parallax-view",
+            "descriptionHighlight": "Parallax view for vertical scrollview with a header image and header content.",
+            "githubUserHighlight": "lelandrichardson"
+        },
+        {
+            "downloads": 3456,
+            "description": "Monitors keyboard show/hide notifications.",
+            "githubUser": "johanneslumpe",
+            "modified": "2015-07-17T16:12:05.560Z",
+            "name": "react-native-keyboardevents",
+            "platforms": {
+                "ios": true
+            },
+            "stars": 101,
+            "latestVersion": "0.4.5",
+            "description_encoded": "Monitors keyboard show/hide notifications.",
+            "objectID": "126513330",
+            "nameHighlight": "react-native-keyboardevents",
+            "descriptionHighlight": "Monitors keyboard show/hide notifications.",
+            "githubUserHighlight": "johanneslumpe"
+        },
+        {
+            "stars": 24,
+            "githubUser": "exponentjs",
+            "downloads": 2562,
+            "latestVersion": "1.0.1",
+            "name": "react-native-scrollable-mixin",
+            "modified": "2015-07-17T01:03:03.065Z",
+            "description": "A standard interface for your scrollable React Native components, making it easier to compose components.",
+            "description_encoded": "A standard interface for your scrollable React Native components, making it easier to compose components.",
+            "objectID": "126513660",
+            "nameHighlight": "react-native-scrollable-mixin",
+            "descriptionHighlight": "A standard interface for your scrollable React Native components, making it easier to compose components.",
+            "githubUserHighlight": "exponentjs"
+        },
+        {
+            "latestVersion": "0.0.2",
+            "modified": "2015-07-17T01:02:07.148Z",
+            "downloads": 128,
+            "githubUser": "exponentjs",
+            "stars": 11,
+            "name": "react-native-scrollable-decorator",
+            "description": "A standard interface for your scrollable React Native components, making it easier to compose components.",
+            "description_encoded": "A standard interface for your scrollable React Native components, making it easier to compose components.",
+            "objectID": "126514180",
+            "nameHighlight": "react-native-scrollable-decorator",
+            "descriptionHighlight": "A standard interface for your scrollable React Native components, making it easier to compose components.",
+            "githubUserHighlight": "exponentjs"
+        },
+        {
+            "latestVersion": "0.0.1",
+            "modified": "2015-07-16T08:37:04.788Z",
+            "downloads": 97,
+            "platforms": {
+                "ios": true
+            },
+            "githubUser": "silentcloud",
+            "stars": 7,
+            "name": "react-native-clipboard",
+            "description": "React Native component for getting or setting clipboard content.",
+            "description_encoded": "React Native component for getting or setting clipboard content.",
+            "objectID": "126514250",
+            "nameHighlight": "react-native-clipboard",
+            "descriptionHighlight": "React Native component for getting or setting clipboard content.",
+            "githubUserHighlight": "silentcloud"
+        }
+    ],
+    "initialCount": 324,
+    "perPage": 20,
+    "debugMode": false
+}

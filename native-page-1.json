@@ -1,0 +1,319 @@
+{
+    "initialComponents": [
+        {
+            "name": "react-native-viewpager",
+            "downloads": 0,
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "stars": 9,
+            "description": "ViewPager componnent for React Native.",
+            "latestVersion": "0.1.0",
+            "modified": "2015-10-10T06:46:38.285Z",
+            "githubUser": "race604",
+            "description_encoded": "ViewPager componnent for React Native.",
+            "objectID": "126516090",
+            "nameHighlight": "react-native-viewpager",
+            "descriptionHighlight": "ViewPager componnent for React Native.",
+            "githubUserHighlight": "race604"
+        },
+        {
+            "name": "react-native-webkit-localstorage-reader",
+            "downloads": 0,
+            "platforms": {
+                "ios": true
+            },
+            "stars": 0,
+            "description": "A react-native wrapper for reading existing localstorage created by apps built with cordova/phonegap.",
+            "latestVersion": "1.0.0",
+            "modified": "2015-10-10T00:42:03.441Z",
+            "githubUser": "wootwoot1234",
+            "description_encoded": "A react-native wrapper for reading existing localstorage created by apps built with cordova/phonegap.",
+            "objectID": "126516100",
+            "nameHighlight": "react-native-webkit-localstorage-reader",
+            "descriptionHighlight": "A react-native wrapper for reading existing localstorage created by apps built with cordova/phonegap.",
+            "githubUserHighlight": "wootwoot1234"
+        },
+        {
+            "stars": 3,
+            "description": "TimerMixin provides timer functions for executing code in the future that are safely cleaned up when the component unmounts. This is a fork that includes react-native InteractionManager support.",
+            "modified": "2015-10-09T23:55:05.613Z",
+            "downloads": 136,
+            "githubUser": "exponentjs",
+            "name": "react-native-timer-mixin",
+            "latestVersion": "0.11.0",
+            "description_encoded": "TimerMixin provides timer functions for executing code in the future that are safely cleaned up when the component unmounts. This is a fork that includes react-native InteractionManager support.",
+            "objectID": "126515840",
+            "nameHighlight": "react-native-timer-mixin",
+            "descriptionHighlight": "TimerMixin provides timer functions for executing code in the future that are safely cleaned up when the component unmounts. This is a fork that includes react-native InteractionManager support.",
+            "githubUserHighlight": "exponentjs"
+        },
+        {
+            "modified": "2015-10-09T23:51:16.663Z",
+            "latestVersion": "0.7.1",
+            "name": "react-native-webpack-server",
+            "downloads": 3001,
+            "githubUser": "mjohnston",
+            "description": "Build React Native apps with Webpack.",
+            "stars": 409,
+            "description_encoded": "Build React Native apps with Webpack.",
+            "objectID": "126515020",
+            "nameHighlight": "react-native-webpack-server",
+            "descriptionHighlight": "Build React Native apps with Webpack.",
+            "githubUserHighlight": "mjohnston"
+        },
+        {
+            "modified": "2015-10-09T22:59:35.364Z",
+            "latestVersion": "1.0.10",
+            "name": "react-native-charts",
+            "downloads": 426,
+            "githubUser": "PrazAs",
+            "description": "Delightfully-animated data visualization.",
+            "stars": 10,
+            "description_encoded": "Delightfully-animated data visualization.",
+            "objectID": "126515280",
+            "nameHighlight": "react-native-charts",
+            "descriptionHighlight": "Delightfully-animated data visualization.",
+            "githubUserHighlight": "PrazAs"
+        },
+        {
+            "name": "react-native-date",
+            "downloads": 8,
+            "platforms": {
+                "android": true
+            },
+            "stars": 0,
+            "description": "React Native date and time pickers for Android.",
+            "latestVersion": "1.0.1",
+            "modified": "2015-10-09T22:06:23.827Z",
+            "githubUser": "nucleartux",
+            "description_encoded": "React Native date and time pickers for Android.",
+            "objectID": "126516080",
+            "nameHighlight": "react-native-date",
+            "descriptionHighlight": "React Native date and time pickers for Android.",
+            "githubUserHighlight": "nucleartux"
+        },
+        {
+            "latestVersion": "1.3.4",
+            "description": "A React Native component rendering a button supporting showing different appearances and functionality given the passed props.",
+            "modified": "2015-10-09T21:52:20.099Z",
+            "name": "react-native-awesome-button",
+            "downloads": 322,
+            "stars": 4,
+            "githubUser": "larsvinter",
+            "description_encoded": "A React Native component rendering a button supporting showing different appearances and functionality given the passed props.",
+            "objectID": "126515900",
+            "nameHighlight": "react-native-awesome-button",
+            "descriptionHighlight": "A React Native component rendering a button supporting showing different appearances and functionality given the passed props.",
+            "githubUserHighlight": "larsvinter"
+        },
+        {
+            "latestVersion": "1.2.0",
+            "modified": "2015-10-09T20:09:51.976Z",
+            "downloads": 457,
+            "platforms": {
+                "android": true,
+                "ios": true
+            },
+            "githubUser": "maxs15",
+            "stars": 65,
+            "name": "react-native-modalbox",
+            "description": "A &#60;Modal/&#62; component for react-native.",
+            "description_encoded": "A &#38;#60;Modal/&#38;#62; component for react-native.",
+            "objectID": "126514280",
+            "nameHighlight": "react-native-modalbox",
+            "descriptionHighlight": "A &#60;Modal/&#62; component for react-native.",
+            "githubUserHighlight": "maxs15"
+        },
+        {
+            "modified": "2015-10-09T19:43:05.103Z",
+            "platforms": {
+                "ios": true
+            },
+            "latestVersion": "1.2.0",
+            "name": "gl-react-native",
+            "downloads": 785,
+            "githubUser": "ProjectSeptemberInc",
+            "description": "OpenGL bindings for react-native to implement complex effects over images and components, in the descriptive VDOM paradigm.",
+            "stars": 273,
+            "description_encoded": "OpenGL bindings for react-native to implement complex effects over images and components, in the descriptive VDOM paradigm.",
+            "objectID": "126515210",
+            "nameHighlight": "gl-react-native",
+            "descriptionHighlight": "OpenGL bindings for react-native to implement complex effects over images and components, in the descriptive VDOM paradigm.",
+            "githubUserHighlight": "ProjectSeptemberInc"
+        },
+        {
+            "githubUser": "Recr0ns",
+            "downloads": 69,
+            "name": "react-native-material-button",
+            "modified": "2015-10-09T14:02:39.532Z",
+            "description": "Customizable material style button.",
+            "latestVersion": "0.0.4",
+            "stars": 0,
+            "description_encoded": "Customizable material style button.",
+            "objectID": "126516060",
+            "nameHighlight": "react-native-material-button",
+            "descriptionHighlight": "Customizable material style button.",
+            "githubUserHighlight": "Recr0ns"
+        },
+        {
+            "downloads": 71,
+            "stars": 0,
+            "description": "Customizable material style switch.",
+            "latestVersion": "0.0.4",
+            "modified": "2015-10-09T13:58:31.525Z",
+            "name": "react-native-material-switch",
+            "githubUser": "Recr0ns",
+            "description_encoded": "Customizable material style switch.",
+            "objectID": "126516030",
+            "nameHighlight": "react-native-material-switch",
+            "descriptionHighlight": "Customizable material style switch.",
+            "githubUserHighlight": "Recr0ns"
+        },
+        {
+            "description": "This is a local storage wrapper for both react-native(AsyncStorage) and browser(localStorage). ES6/babel is needed.",
+            "downloads": 400,
+            "latestVersion": "0.0.9",
+            "githubUser": "sunnylqm",
+            "modified": "2015-10-09T09:31:56.003Z",
+            "stars": 16,
+            "name": "react-native-storage",
+            "description_encoded": "This is a local storage wrapper for both react-native(AsyncStorage) and browser(localStorage). ES6/babel is needed.",
+            "objectID": "126514410",
+            "nameHighlight": "react-native-storage",
+            "descriptionHighlight": "This is a local storage wrapper for both react-native(AsyncStorage) and browser(localStorage). ES6/babel is needed.",
+            "githubUserHighlight": "sunnylqm"
+        },
+        {
+            "latestVersion": "0.2.1",
+            "modified": "2015-10-09T09:20:38.953Z",
+            "downloads": 783,
+            "githubUser": "exponentjs",
+            "stars": 36,
+            "name": "react-native-infinite-scroll-view",
+            "description": "An infinitely scrolling view that notifies you as the scroll offset approaches the bottom.",
+            "description_encoded": "An infinitely scrolling view that notifies you as the scroll offset approaches the bottom.",
+            "objectID": "126514110",
+            "nameHighlight": "react-native-infinite-scroll-view",
+            "descriptionHighlight": "An infinitely scrolling view that notifies you as the scroll offset approaches the bottom.",
+            "githubUserHighlight": "exponentjs"
+        },
+        {
+            "name": "react-native-vibration",
+            "githubUser": "ideacreation",
+            "description": "Vibration support for android.",
+            "stars": 5,
+            "platforms": {
+                "android": true
+            },
+            "latestVersion": "0.1.1",
+            "downloads": 30,
+            "modified": "2015-10-09T06:50:49.366Z",
+            "description_encoded": "Vibration support for android.",
+            "objectID": "126515930",
+            "nameHighlight": "react-native-vibration",
+            "descriptionHighlight": "Vibration support for android.",
+            "githubUserHighlight": "ideacreation"
+        },
+        {
+            "githubUser": "plrthink",
+            "downloads": 113,
+            "name": "react-native-zip-archive",
+            "modified": "2015-10-09T06:48:31.425Z",
+            "description": "A little wrapper on ZipArchive for react-native.",
+            "latestVersion": "0.0.4",
+            "stars": 1,
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "A little wrapper on ZipArchive for react-native.",
+            "objectID": "126516070",
+            "nameHighlight": "react-native-zip-archive",
+            "descriptionHighlight": "A little wrapper on ZipArchive for react-native.",
+            "githubUserHighlight": "plrthink"
+        },
+        {
+            "githubUser": "plrthink",
+            "downloads": 85,
+            "name": "react-native-file-download",
+            "modified": "2015-10-09T06:35:23.353Z",
+            "description": "A simple file download module for react-native.",
+            "latestVersion": "0.0.3",
+            "stars": 2,
+            "platforms": {
+                "ios": true
+            },
+            "description_encoded": "A simple file download module for react-native.",
+            "objectID": "126516050",
+            "nameHighlight": "react-native-file-download",
+            "descriptionHighlight": "A simple file download module for react-native.",
+            "githubUserHighlight": "plrthink"
+        },
+        {
+            "stars": 5,
+            "githubUser": "ideacreation",
+            "description": "A barcode scanner component for react native.",
+            "name": "react-native-barcodescanner",
+            "latestVersion": "0.1.1",
+            "platforms": {
+                "android": true
+            },
+            "downloads": 36,
+            "modified": "2015-10-09T06:29:25.225Z",
+            "description_encoded": "A barcode scanner component for react native.",
+            "objectID": "126515940",
+            "nameHighlight": "react-native-barcodescanner",
+            "descriptionHighlight": "A barcode scanner component for react native.",
+            "githubUserHighlight": "ideacreation"
+        },
+        {
+            "modified": "2015-10-09T05:19:28.041Z",
+            "latestVersion": "0.0.8",
+            "name": "react-native-refreshable-scroll-view",
+            "downloads": 518,
+            "githubUser": "exponentjs",
+            "description": "A ScrollView that supports pull-to-refresh. You can customize it with the RefreshIndicator and type of ScrollView (ex: ListView) of your choice.",
+            "stars": 31,
+            "description_encoded": "A ScrollView that supports pull-to-refresh. You can customize it with the RefreshIndicator and type of ScrollView (ex: ListView) of your choice.",
+            "objectID": "126514930",
+            "nameHighlight": "react-native-refreshable-scroll-view",
+            "descriptionHighlight": "A ScrollView that supports pull-to-refresh. You can customize it with the RefreshIndicator and type of ScrollView (ex: ListView) of your choice.",
+            "githubUserHighlight": "exponentjs"
+        },
+        {
+            "downloads": 33,
+            "stars": 5,
+            "description": "Emoji component for React Native.",
+            "latestVersion": "1.1.1",
+            "modified": "2015-10-09T04:32:33.136Z",
+            "name": "react-native-emoji",
+            "githubUser": "jorilallo",
+            "description_encoded": "Emoji component for React Native.",
+            "objectID": "126516000",
+            "nameHighlight": "react-native-emoji",
+            "descriptionHighlight": "Emoji component for React Native.",
+            "githubUserHighlight": "jorilallo"
+        },
+        {
+            "githubUser": "sejoker",
+            "downloads": 20,
+            "name": "react-native-android-vitamio",
+            "modified": "2015-10-08T22:32:20.253Z",
+            "description": "React-native component for android Vitamio video player.",
+            "latestVersion": "1.0.1",
+            "stars": 5,
+            "platforms": {
+                "android": true
+            },
+            "description_encoded": "React-native component for android Vitamio video player.",
+            "objectID": "126516040",
+            "nameHighlight": "react-native-android-vitamio",
+            "descriptionHighlight": "React-native component for android Vitamio video player.",
+            "githubUserHighlight": "sejoker"
+        }
+    ],
+    "initialCount": 324,
+    "perPage": 20,
+    "debugMode": false
+}
